@@ -1,0 +1,998 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: [KUNING]Lee.Cronins.The.Mummy.2026.WEB-DL.1080p.English
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Rounded MT Bold,20,&H0000FFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,3,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.41,0:00:03.41,Default,,0,0,0,,BUAT SITUS NONTON STREAMING,\NMOHON TAK MERUBAH KONTEN SUB INI
+Dialogue: 0,0:00:03.44,0:00:33.44,Default,,0,0,0,,TERIMA KASIH: {\c&Hffff00&}gendhutz, Ibnu triawan, Seseorang,\NSophie Lengkong, Penonton miawaug, Arjuna Plantagenet, Lk21.de{\c}\Natas SUPPORTNYA di: {\c&H8080ff&}trakteer.id/broth3rmaxSUB
+Dialogue: 0,0:00:33.44,0:00:48.04,Default,,0,0,0,,berikan SUPPORT di:\N{\c&H8080ff&}trakteer.id/broth3rmaxSUB
+Dialogue: 0,0:01:18.46,0:01:21.46,Default,,0,0,0,,Ayo Layla, biar ayah dengar suara merdumu.
+Dialogue: 0,0:01:22.49,0:01:23.49,Default,,0,0,0,,Tidak.
+Dialogue: 0,0:01:23.51,0:01:25.51,Default,,0,0,0,,Ayolah, demi ayahmu.
+Dialogue: 0,0:01:49.43,0:01:51.43,Default,,0,0,0,,Kau bikin kepalaku puyeng.
+Dialogue: 0,0:01:55.46,0:01:57.46,Default,,0,0,0,,Kalian semua.
+Dialogue: 0,0:02:03.48,0:02:15.48,Default,,0,0,0,,terjemahan broth3r{\i1}max{\i0}
+Dialogue: 0,0:02:42.22,0:02:43.29,Default,,0,0,0,,Ibu!
+Dialogue: 0,0:03:02.41,0:03:04.41,Default,,0,0,0,,Selamatkan dia.
+Dialogue: 0,0:03:27.44,0:03:29.44,Default,,0,0,0,,Anak-anak...
+Dialogue: 0,0:03:29.46,0:03:31.46,Default,,0,0,0,,tunggu disini.
+Dialogue: 0,0:03:37.49,0:03:51.49,Default,,0,0,0,,Hanya di {\c&H8080ff&}AYUKBET{\c}, Menang dapat {\c&H00ff80&}REBATE 1,3%{\c}\Ndan kalah juga dapat {\c&H00ff80&}CASHBACK 5%{\c}\NCari kami di GOOGLE : AYUKBET
+Dialogue: 0,0:04:27.41,0:04:30.41,Default,,0,0,0,,Bagaimana kita tahu sekaranglah saatnya?
+Dialogue: 0,0:04:33.43,0:04:35.43,Default,,0,0,0,,Kita periksa dulu.
+Dialogue: 0,0:04:55.46,0:04:57.46,Default,,0,0,0,,Pelan-pelan, buka sedikit saja.
+Dialogue: 0,0:05:38.48,0:05:40.48,Default,,0,0,0,,Apa dia sudah bangkit?
+Dialogue: 0,0:06:01.41,0:06:03.71,Default,,0,0,0,,Katakan, dia bangkit atau belum?
+Dialogue: 0,0:06:10.03,0:06:11.07,Default,,0,0,0,,Mm-mm.
+Dialogue: 0,0:06:11.49,0:06:13.49,Default,,0,0,0,,Alhamdulillah.
+Dialogue: 0,0:06:45.41,0:06:45.62,Default,,0,0,0,,L
+Dialogue: 0,0:06:45.62,0:06:45.83,Default,,0,0,0,,LE
+Dialogue: 0,0:06:45.83,0:06:46.04,Default,,0,0,0,,LEE
+Dialogue: 0,0:06:46.04,0:06:46.25,Default,,0,0,0,,LEE
+Dialogue: 0,0:06:46.25,0:06:46.46,Default,,0,0,0,,LEE C
+Dialogue: 0,0:06:46.46,0:06:46.66,Default,,0,0,0,,LEE CR
+Dialogue: 0,0:06:46.66,0:06:46.87,Default,,0,0,0,,LEE CRO
+Dialogue: 0,0:06:46.87,0:06:47.08,Default,,0,0,0,,LEE CRON
+Dialogue: 0,0:06:47.08,0:06:47.29,Default,,0,0,0,,LEE CRONI
+Dialogue: 0,0:06:47.29,0:06:47.50,Default,,0,0,0,,LEE CRONIN
+Dialogue: 0,0:06:47.50,0:06:47.71,Default,,0,0,0,,LEE CRONIN'
+Dialogue: 0,0:06:47.71,0:06:47.91,Default,,0,0,0,,LEE CRONIN'S
+Dialogue: 0,0:06:47.91,0:06:48.12,Default,,0,0,0,,LEE CRONIN'S:
+Dialogue: 0,0:06:48.12,0:06:48.33,Default,,0,0,0,,LEE CRONIN'S:
+Dialogue: 0,0:06:48.33,0:06:48.54,Default,,0,0,0,,LEE CRONIN'S:
+Dialogue: 0,0:06:48.54,0:06:48.75,Default,,0,0,0,,LEE CRONIN'S:\NT
+Dialogue: 0,0:06:48.75,0:06:48.96,Default,,0,0,0,,LEE CRONIN'S:\NTH
+Dialogue: 0,0:06:48.96,0:06:49.16,Default,,0,0,0,,LEE CRONIN'S:\NTHE
+Dialogue: 0,0:06:49.16,0:06:49.37,Default,,0,0,0,,LEE CRONIN'S:\NTHE
+Dialogue: 0,0:06:49.37,0:06:49.58,Default,,0,0,0,,LEE CRONIN'S:\NTHE M
+Dialogue: 0,0:06:49.58,0:06:49.79,Default,,0,0,0,,LEE CRONIN'S:\NTHE MU
+Dialogue: 0,0:06:49.79,0:06:50.00,Default,,0,0,0,,LEE CRONIN'S:\NTHE MUM
+Dialogue: 0,0:06:50.00,0:06:50.21,Default,,0,0,0,,LEE CRONIN'S:\NTHE MUMM
+Dialogue: 0,0:06:50.21,0:06:57.31,Default,,0,0,0,,LEE CRONIN'S:\NTHE MUMMY
+Dialogue: 0,0:07:24.57,0:07:26.61,Default,,0,0,0,,Pizza pepperoni?\N/ Oh.
+Dialogue: 0,0:07:27.64,0:07:29.34,Default,,0,0,0,,Kau berhasil selesaikan soal kodenya.
+Dialogue: 0,0:07:29.48,0:07:30.98,Default,,0,0,0,,Bisa kita makan pizza malam ini?
+Dialogue: 0,0:07:31.11,0:07:32.18,Default,,0,0,0,,Jangan malam ini, nak.
+Dialogue: 0,0:07:32.31,0:07:33.28,Default,,0,0,0,,Kau bahkan tak suka pizza.
+Dialogue: 0,0:07:33.42,0:07:35.25,Default,,0,0,0,,Tidak, aku tidak suka keju.
+Dialogue: 0,0:07:35.55,0:07:37.92,Default,,0,0,0,,Bukan pizza namanya\Nkalau tanpa keju.
+Dialogue: 0,0:07:38.29,0:07:39.79,Default,,0,0,0,,Dia benar.
+Dialogue: 0,0:07:39.92,0:07:41.12,Default,,0,0,0,,{\i1}...upaya besar-besaran sedang dilakukan...{\i0}
+Dialogue: 0,0:07:41.26,0:07:43.53,Default,,0,0,0,,Ayah, ayolah. Satu lagi.\N/ Ya...
+Dialogue: 0,0:07:43.73,0:07:45.36,Default,,0,0,0,,Oke. Kita kerjakan...
+Dialogue: 0,0:07:45.49,0:07:46.73,Default,,0,0,0,,{\i1}...reporter kami di lapangan di luar Kairo{\i0}
+Dialogue: 0,0:07:46.86,0:07:49.13,Default,,0,0,0,,{\i1}adalah Charlie Cannon.{\i0}
+Dialogue: 0,0:07:49.66,0:07:51.07,Default,,0,0,0,,{\i1}Para kritikus berpendapat bahwa{\i0}
+Dialogue: 0,0:07:51.20,0:07:52.67,Default,,0,0,0,,{\i1}3 tahun kekeringan\Nyang hampir terus-menerus{\i0}
+Dialogue: 0,0:07:52.80,0:07:54.70,Default,,0,0,0,,{\i1}memaksa petani lokal\Nmencari cara baru.{\i0}
+Dialogue: 0,0:07:54.84,0:07:56.10,Default,,0,0,0,,{\i1}serta sangat susah payah{\i0}
+Dialogue: 0,0:07:56.24,0:07:57.24,Default,,0,0,0,,{\i1}untuk menghasilkan uang.{\i0}
+Dialogue: 0,0:07:57.71,0:07:59.11,Default,,0,0,0,,{\i1}Tapi para menteri pemerintah...{\i0}\N/ Ayah?
+Dialogue: 0,0:07:59.24,0:08:00.81,Default,,0,0,0,,{\i1}...berposisi reaktif...{\i0}\N/ Tunggu sebentar.
+Dialogue: 0,0:08:00.94,0:08:02.41,Default,,0,0,0,,{\i1}...saat mereka meluncurkan\Nskema-skema besar baru{\i0}
+Dialogue: 0,0:08:02.54,0:08:05.08,Default,,0,0,0,,{\i1}dalam pengelolaan air\Ndan irigasi di daerah gurun.{\i0}
+Dialogue: 0,0:08:05.75,0:08:07.25,Default,,0,0,0,,Apa itu, Seb?\NApa yang kau lakukan?
+Dialogue: 0,0:08:07.38,0:08:08.88,Default,,0,0,0,,Menirukan ayah?
+Dialogue: 0,0:08:09.02,0:08:10.89,Default,,0,0,0,,Oh, menirukan ayah?\NDengan gerakan tangan itu?
+Dialogue: 0,0:08:11.02,0:08:12.15,Default,,0,0,0,,Ya.
+Dialogue: 0,0:08:12.35,0:08:14.26,Default,,0,0,0,,{\i1}Berbeda dengan aksi penjarahan\Nbesar-besaran yang terjadi{\i0}
+Dialogue: 0,0:08:14.39,0:08:16.73,Default,,0,0,0,,{\i1}selama Musim Semi Arab tahun 2011,{\i0}
+Dialogue: 0,0:08:16.86,0:08:18.46,Default,,0,0,0,,{\i1}Pihak berwenang Mesir tidak yakin{\i0}
+Dialogue: 0,0:08:18.59,0:08:19.96,Default,,0,0,0,,{\i1}penyebab peningkatan saat ini{\i0}
+Dialogue: 0,0:08:20.10,0:08:21.60,Default,,0,0,0,,{\i1}di pemukiman ilegal.{\i0}\N/ Hey!
+Dialogue: 0,0:08:21.73,0:08:23.06,Default,,0,0,0,,{\i1}Dengan penyelundupan...{\i0}\N/ Katie.
+Dialogue: 0,0:08:23.20,0:08:24.07,Default,,0,0,0,,{\i1}barang seni kuno...{\i0}
+Dialogue: 0,0:08:24.67,0:08:27.20,Default,,0,0,0,,Kita harus lebih sering latihan,\Natau aku akan gagal.
+Dialogue: 0,0:08:29.70,0:08:30.67,Default,,0,0,0,,Oke.
+Dialogue: 0,0:08:34.61,0:08:35.81,Default,,0,0,0,,Um...
+Dialogue: 0,0:08:39.75,0:08:43.95,Default,,0,0,0,,Sayang, apa aku keseringan pakai\Ngerakan tangan saat tampil di TV?
+Dialogue: 0,0:08:44.09,0:08:45.52,Default,,0,0,0,,Um...
+Dialogue: 0,0:08:45.95,0:08:47.46,Default,,0,0,0,,Bukankah itu ciri khasmu?
+Dialogue: 0,0:08:47.59,0:08:48.52,Default,,0,0,0,,Ciri khas?
+Dialogue: 0,0:08:48.66,0:08:49.99,Default,,0,0,0,,Kayak merek.
+Dialogue: 0,0:08:50.13,0:08:51.73,Default,,0,0,0,,Seperti, "Selamat malam\Ndan semoga beruntung."
+Dialogue: 0,0:08:51.86,0:08:53.96,Default,,0,0,0,,Atau "Beginilah keadaannya."\N/ Itu ungkapan-ungkapan klise.
+Dialogue: 0,0:08:54.10,0:08:58.93,Default,,0,0,0,,Maksudku, apa aku keseringan begini\Ndengan tanganku?
+Dialogue: 0,0:08:59.07,0:09:01.80,Default,,0,0,0,,Karena itu berpotensi sangat\Nmengganggu para penontonku.
+Dialogue: 0,0:09:01.94,0:09:03.51,Default,,0,0,0,,Apa kau tahu\Nyang paling mengganggu?
+Dialogue: 0,0:09:03.64,0:09:07.34,Default,,0,0,0,,Yaitu kau melakukannya di\Npandangan sampingku, jadi hentikan.
+Dialogue: 0,0:09:07.48,0:09:08.41,Default,,0,0,0,,Oh, ya?
+Dialogue: 0,0:09:08.54,0:09:09.98,Default,,0,0,0,,Ini mengganggu ...\N/ Ya.
+Dialogue: 0,0:09:10.11,0:09:11.11,Default,,0,0,0,,...di pandangan sampingmu?\N/ Sangat mengganggu.
+Dialogue: 0,0:09:11.25,0:09:12.08,Default,,0,0,0,,Ya?\N/ Ya.
+Dialogue: 0,0:09:12.21,0:09:13.11,Default,,0,0,0,,Bagaimana dengan ini?\NApa ini mengganggu?
+Dialogue: 0,0:09:13.25,0:09:14.15,Default,,0,0,0,,Apa ini mengganggu?
+Dialogue: 0,0:09:14.28,0:09:16.58,Default,,0,0,0,,Hentikan.
+Dialogue: 0,0:09:16.95,0:09:19.82,Default,,0,0,0,,Bagaimana dengan dia?\NApa dia akan mengganggu?
+Dialogue: 0,0:09:20.26,0:09:23.63,Default,,0,0,0,,Dia akan sangat mengganggu,\Nsama seperti ayahnya.
+Dialogue: 0,0:09:23.76,0:09:25.13,Default,,0,0,0,, Hmm.\N/ Seb,
+Dialogue: 0,0:09:25.26,0:09:26.96,Default,,0,0,0,,Kenapa kau lakukan itu?\N/ Maaf...
+Dialogue: 0,0:09:27.10,0:09:28.66,Default,,0,0,0,,Lepaskan! Lepaskan aku!\N/ Kau selalu mengganggu barang-barangku!
+Dialogue: 0,0:09:28.80,0:09:30.80,Default,,0,0,0,,Katie, hentikan! Hentikan.\N/ Cukup.
+Dialogue: 0,0:09:30.93,0:09:32.73,Default,,0,0,0,,Sudah. Ayo. Naik.\N/ Tidak, tidak, tidak. Hentikan.
+Dialogue: 0,0:09:32.87,0:09:34.14,Default,,0,0,0,,Kemarilah.\N/ Apa yang terjadi?
+Dialogue: 0,0:09:34.27,0:09:36.60,Default,,0,0,0,,Dia melemparkan Veronica\Njatuh dari atap.
+Dialogue: 0,0:09:37.61,0:09:40.04,Default,,0,0,0,,Aku tak akan bohong,\Nmemang aku lempar.
+Dialogue: 0,0:09:45.28,0:09:46.45,Default,,0,0,0,,Oh, Seb.
+Dialogue: 0,0:09:46.58,0:09:48.12,Default,,0,0,0,,Aku lagi menguji parasut baruku.
+Dialogue: 0,0:09:48.25,0:09:49.78,Default,,0,0,0,,Tapi kenapa kau\Nselalu menyentuh barang-barangku?
+Dialogue: 0,0:09:49.92,0:09:51.32,Default,,0,0,0,,Aku tak pernah menyentuh barangmu!\N/ Aku cuma mau memakainya.
+Dialogue: 0,0:09:53.12,0:09:55.92,Default,,0,0,0,,Ibu makai praduga tak bersalah, ngerti?
+Dialogue: 0,0:09:57.63,0:10:00.63,Default,,0,0,0,,Mau pergi dulu. Ayo, cium.
+Dialogue: 0,0:10:01.33,0:10:02.16,Default,,0,0,0,,Mm?
+Dialogue: 0,0:10:04.03,0:10:05.53,Default,,0,0,0,,Siapa yang paling Ibu sayangi?
+Dialogue: 0,0:10:05.67,0:10:07.97,Default,,0,0,0,,Um... Ibu akan beritahu\Nsetelah pulang kerja.
+Dialogue: 0,0:10:10.44,0:10:11.67,Default,,0,0,0,,Sudah.
+Dialogue: 0,0:10:12.74,0:10:14.51,Default,,0,0,0,,Ayah tahu ini tak sempurna.
+Dialogue: 0,0:10:14.64,0:10:15.94,Default,,0,0,0,,Ayah apakan dia?
+Dialogue: 0,0:10:16.08,0:10:18.28,Default,,0,0,0,,Tapi, saat kita kembali\Nke Albuquerque minggu depan,
+Dialogue: 0,0:10:18.41,0:10:19.91,Default,,0,0,0,,kita akan membawanya langsung\Nke rumah sakit boneka
+Dialogue: 0,0:10:20.05,0:10:21.32,Default,,0,0,0,,untuk diperbaiki dengan benar.
+Dialogue: 0,0:10:21.45,0:10:23.08,Default,,0,0,0,,Ayah bilang selanjutnya kita\Nakan tinggal di New York,
+Dialogue: 0,0:10:23.22,0:10:24.55,Default,,0,0,0,,bukan ke rumah Nenek lagi.
+Dialogue: 0,0:10:24.69,0:10:25.99,Default,,0,0,0,,Kemanapun kita pergi selanjutnya,
+Dialogue: 0,0:10:26.12,0:10:28.46,Default,,0,0,0,,kuharap kau tetap di sini sendirian.
+Dialogue: 0,0:10:28.59,0:10:29.66,Default,,0,0,0,,Hey, itu sikap tidak baik.
+Dialogue: 0,0:10:29.79,0:10:32.09,Default,,0,0,0,,Tidak! Ayah bahkan tidak membentaknya.
+Dialogue: 0,0:10:33.43,0:10:35.00,Default,,0,0,0,,Butterfly (kupu-kupu). Ayolah.
+Dialogue: 0,0:10:35.13,0:10:38.17,Default,,0,0,0,,Jangan panggil aku Butterfly.\NSaat ini kubenci kalian berdua.
+Dialogue: 0,0:10:43.84,0:10:45.57,Default,,0,0,0,,Aku tak akan menguji\Nparasut pakai bayi yang baru lahir
+Dialogue: 0,0:10:45.71,0:10:47.24,Default,,0,0,0,,saat keluar dari perutnya Ibu.
+Dialogue: 0,0:10:48.54,0:10:50.04,Default,,0,0,0,,Terima kasih, nak.
+Dialogue: 0,0:10:51.47,0:10:59.47,Default,,0,0,0,,Daftar Baru langsung dapat {\c&H00ff80&}Bonus 50%.{\c}\NDengan DP 25k sampai 100k, bisa {\c&H00ff80&}klaim Bonus Harian 40k!{\c}\NKetik di GOOGLE : AYUKBET
+Dialogue: 0,0:11:17.61,0:11:19.11,Default,,0,0,0,,Bob. Hai, apa kabar?
+Dialogue: 0,0:11:19.24,0:11:20.98,Default,,0,0,0,,{\i1}Charlie Cannon.{\i0}
+Dialogue: 0,0:11:21.11,0:11:22.94,Default,,0,0,0,,{\i1}Jam berapa sekarang di Kairo sana?{\i0}
+Dialogue: 0,0:11:23.38,0:11:24.58,Default,,0,0,0,,Uh...
+Dialogue: 0,0:11:24.85,0:11:26.55,Default,,0,0,0,,Beberapa menit setelah pukul 3 sore.
+Dialogue: 0,0:11:26.71,0:11:29.78,Default,,0,0,0,,{\i1}Tepat setelah pukul 8 pagi\Ndi Kota New York.{\i0}
+Dialogue: 0,0:11:30.05,0:11:31.82,Default,,0,0,0,,{\i1}Biar aku tanya, Charlie.{\i0}
+Dialogue: 0,0:11:31.95,0:11:33.82,Default,,0,0,0,,{\i1}Apa kau ingin mengisi\Npembawa berita berita pagi itu?{\i0}
+Dialogue: 0,0:11:37.46,0:11:38.69,Default,,0,0,0,,Halo.
+Dialogue: 0,0:11:46.43,0:11:47.57,Default,,0,0,0,,Layla?
+Dialogue: 0,0:11:47.94,0:11:49.84,Default,,0,0,0,,Aku ibunya Layla.
+Dialogue: 0,0:11:50.44,0:11:54.21,Default,,0,0,0,,Atau ibu.\NKau akan mengatakan "ibu" 'kan?
+Dialogue: 0,0:11:55.44,0:11:56.95,Default,,0,0,0,,Di mana Layla hari ini?
+Dialogue: 0,0:11:57.78,0:11:59.28,Default,,0,0,0,,Dia sedang sakit perut.
+Dialogue: 0,0:11:59.52,0:12:02.92,Default,,0,0,0,,Tapi dia tak mau kau khawatir\Nsaat dia tidak ikutan bermain.
+Dialogue: 0,0:12:03.18,0:12:05.22,Default,,0,0,0,,Dia senang menjadi temanmu.
+Dialogue: 0,0:12:08.26,0:12:10.73,Default,,0,0,0,,Apa dia menceritakan\Nsesuatu tentangku padamu?
+Dialogue: 0,0:12:11.93,0:12:14.40,Default,,0,0,0,,Yah, dia bilang kau pesulap.
+Dialogue: 0,0:12:14.70,0:12:15.80,Default,,0,0,0,,Itu benar.
+Dialogue: 0,0:12:17.13,0:12:18.80,Default,,0,0,0,,Apa kau mau lihat trik sulapnya?
+Dialogue: 0,0:12:19.37,0:12:20.80,Default,,0,0,0,,Hey.\N/ {\i1}Hey,{\i0}
+Dialogue: 0,0:12:20.94,0:12:22.04,Default,,0,0,0,,{\i1}Aku akan segera memulai tugasku.{\i0}
+Dialogue: 0,0:12:22.17,0:12:23.87,Default,,0,0,0,,Ya, sebentar kok. Um...
+Dialogue: 0,0:12:24.51,0:12:26.04,Default,,0,0,0,,Bagaimana perasaanmu tentang bayi kita
+Dialogue: 0,0:12:26.17,0:12:28.08,Default,,0,0,0,,tumbuh sebagai penggemar Yankees?
+Dialogue: 0,0:12:28.91,0:12:30.48,Default,,0,0,0,,{\i1}Tak mungkin.{\i0}
+Dialogue: 0,0:12:30.61,0:12:31.98,Default,,0,0,0,,Ya, mungkin saja.
+Dialogue: 0,0:12:32.11,0:12:33.52,Default,,0,0,0,,{\i1}Kau dapat kerjaan itu?{\i0}
+Dialogue: 0,0:12:33.65,0:12:35.58,Default,,0,0,0,,Ya. Mereka baru saja menelepon.
+Dialogue: 0,0:12:35.78,0:12:37.29,Default,,0,0,0,,{\i1}Astaga.{\i0}
+Dialogue: 0,0:12:37.42,0:12:39.25,Default,,0,0,0,,Aku berusaha diam saja\Nkarena belum memberitahu anak-anak.
+Dialogue: 0,0:12:39.39,0:12:40.69,Default,,0,0,0,,{\i1}Aku tahu kau bakal dapat.\NSudah kuduga.{\i0}
+Dialogue: 0,0:12:40.82,0:12:42.89,Default,,0,0,0,,{\i1}Sudah kubilang. Sudah kubilang!{\i0}
+Dialogue: 0,0:12:43.02,0:12:45.43,Default,,0,0,0,,{\i1}Dan kau tak percaya padaku. Bodoh!{\i0}
+Dialogue: 0,0:12:45.56,0:12:48.03,Default,,0,0,0,,{\i1}Oh Tuhan.\NKapan mereka ingin kau mulai kerja?{\i0}
+Dialogue: 0,0:12:48.16,0:12:50.10,Default,,0,0,0,,{\i1}Ya ampun, banyak sekali yang harus diatur.{\i0}
+Dialogue: 0,0:12:59.64,0:13:01.34,Default,,0,0,0,,Ta-da!
+Dialogue: 0,0:13:01.48,0:13:03.51,Default,,0,0,0,,{\i1}Ibu pasti tak senang kalau kita tidak{\i0}
+Dialogue: 0,0:13:03.65,0:13:04.78,Default,,0,0,0,,{\i1}kembali tinggal bersamanya.{\i0}
+Dialogue: 0,0:13:04.91,0:13:05.88,Default,,0,0,0,,{\i1}Aku akan...{\i0}\N/ Sayang.
+Dialogue: 0,0:13:06.01,0:13:07.22,Default,,0,0,0,,{\i1}...sampaikan padanya dengan lembut.{\i0}
+Dialogue: 0,0:13:07.35,0:13:09.12,Default,,0,0,0,,Apa kau sudah kasih Katie permen?
+Dialogue: 0,0:13:09.95,0:13:11.79,Default,,0,0,0,,Maksudnya, permen yang banyak?
+Dialogue: 0,0:13:11.92,0:13:13.49,Default,,0,0,0,,{\i1}Tidak. Permen apa?{\i0}
+Dialogue: 0,0:13:14.62,0:13:15.96,Default,,0,0,0,,Ah!
+Dialogue: 0,0:13:16.76,0:13:18.13,Default,,0,0,0,,Favoritmu.
+Dialogue: 0,0:13:20.13,0:13:22.53,Default,,0,0,0,,Ah? Hah. Hm.
+Dialogue: 0,0:13:28.10,0:13:31.24,Default,,0,0,0,,Aku harus pergi sekarang sebelum\Nayah nyari-nyari aku.
+Dialogue: 0,0:13:31.37,0:13:32.07,Default,,0,0,0,,Tunggu.
+Dialogue: 0,0:13:33.81,0:13:35.54,Default,,0,0,0,,Aku punya satu kejutan lagi untukmu.
+Dialogue: 0,0:13:35.88,0:13:37.88,Default,,0,0,0,,Aku menanamnya di kebunku sendiri.
+Dialogue: 0,0:13:38.01,0:13:41.02,Default,,0,0,0,,Rasanya lebih manis\Nketimbang permen apapun.
+Dialogue: 0,0:13:51.59,0:13:53.26,Default,,0,0,0,,Dari mana Katie mendapatkan ini?
+Dialogue: 0,0:13:53.76,0:13:55.86,Default,,0,0,0,,Dia hanya mau berbagi denganku jika\Naku janji tidak memberitahu ayah .
+Dialogue: 0,0:13:56.06,0:13:57.40,Default,,0,0,0,,Memberitahu apa?
+Dialogue: 0,0:13:57.83,0:14:00.57,Default,,0,0,0,,Tentang temannya yang memberikan permen\Npadanya di pinggir taman.
+Dialogue: 0,0:14:05.54,0:14:08.08,Default,,0,0,0,,Kuharap kau bisa memaafkanku, Katie.
+Dialogue: 0,0:14:10.68,0:14:11.65,Default,,0,0,0,,Untuk apa?
+Dialogue: 0,0:14:11.85,0:14:13.58,Default,,0,0,0,,Trik sulap terakhirku.
+Dialogue: 0,0:14:37.71,0:14:38.64,Default,,0,0,0,,Katie?
+Dialogue: 0,0:14:52.09,0:14:53.25,Default,,0,0,0,,Katie?
+Dialogue: 0,0:15:04.63,0:15:05.53,Default,,0,0,0,,Katie?
+Dialogue: 0,0:15:21.62,0:15:22.45,Default,,0,0,0,,Katie?
+Dialogue: 0,0:15:28.89,0:15:29.63,Default,,0,0,0,,Katie?
+Dialogue: 0,0:15:35.86,0:15:36.70,Default,,0,0,0,,Katie?
+Dialogue: 0,0:15:38.10,0:15:39.40,Default,,0,0,0,,Hey, apa kau melihat\Nseorang anak perempuan?
+Dialogue: 0,0:15:56.08,0:15:57.25,Default,,0,0,0,,Hey!
+Dialogue: 0,0:15:58.55,0:15:59.59,Default,,0,0,0,,Hey!
+Dialogue: 0,0:16:03.89,0:16:04.66,Default,,0,0,0,,Katie?
+Dialogue: 0,0:16:10.16,0:16:11.23,Default,,0,0,0,,Katie?
+Dialogue: 0,0:16:12.60,0:16:14.04,Default,,0,0,0,,Katie!
+Dialogue: 0,0:16:26.78,0:16:28.28,Default,,0,0,0,,Katie!
+Dialogue: 0,0:16:47.97,0:16:49.44,Default,,0,0,0,,Katie!
+Dialogue: 0,0:17:17.16,0:17:18.90,Default,,0,0,0,,Katie!
+Dialogue: 0,0:17:22.00,0:17:23.27,Default,,0,0,0,,Katie!
+Dialogue: 0,0:17:27.74,0:17:30.24,Default,,0,0,0,,Katie!
+Dialogue: 0,0:17:30.27,0:17:33.47,Default,,0,0,0,,KEPOLISIAN ZAMALEK, KAIRO
+Dialogue: 0,0:17:33.49,0:17:36.49,Default,,0,0,0,,Aku paham kau sedang frustasi.
+Dialogue: 0,0:17:36.52,0:17:39.42,Default,,0,0,0,,Tapi aku tak bisa mengirimkan petugas\Nuntuk menangkap seekor monyet.
+Dialogue: 0,0:17:39.44,0:17:42.44,Default,,0,0,0,,{\i1}Kalau begitu akan kuceburkan saja ke sumur!{\i0}
+Dialogue: 0,0:17:42.46,0:17:44.46,Default,,0,0,0,,Jangan, tak kusarankan kau\Nmenenggelamkan monyet itu.
+Dialogue: 0,0:17:44.49,0:17:46.49,Default,,0,0,0,,{\i1}Tembak, akan kutembak dia...{\i0}
+Dialogue: 0,0:17:49.41,0:17:54.41,Default,,0,0,0,,Petugas Zaki, kau fasih\Nberbahasa Inggris 'kan?
+Dialogue: 0,0:17:57.44,0:17:59.44,Default,,0,0,0,,Mengapa kau ingin gabung ke\Ndepartemen orang hilang?
+Dialogue: 0,0:17:59.46,0:18:01.46,Default,,0,0,0,,Kehilangan seekor kucing\Nsaat kau 8 tahun?
+Dialogue: 0,0:18:02.48,0:18:04.48,Default,,0,0,0,,Aku alergi kucing.
+Dialogue: 0,0:18:04.51,0:18:06.51,Default,,0,0,0,,Begini, Petugas Zaki,
+Dialogue: 0,0:18:06.53,0:18:10.43,Default,,0,0,0,,aku telah menemukan 193 orang\Ndalam 27 tahun dalam pekerjaan ini.
+Dialogue: 0,0:18:11.46,0:18:16.46,Default,,0,0,0,,Itu berarti rata-rata kau menyelamatkan\N7,14 orang per tahun.
+Dialogue: 0,0:18:20.48,0:18:22.48,Default,,0,0,0,,190 diantaranya mati.
+Dialogue: 0,0:18:26.40,0:18:30.40,Default,,0,0,0,,Jika kau ingin dipromosikan ke departemen ini,
+Dialogue: 0,0:18:30.43,0:18:36.43,Default,,0,0,0,,kau harus mempertimbangkan apakah menghadapi\Nbegitu banyak mayat mampu kau tanggung.
+Dialogue: 0,0:18:40.75,0:18:43.42,Default,,0,0,0,,Ini foto dia.\NFoto ini diambil seminggu yang lalu.
+Dialogue: 0,0:18:50.44,0:18:52.44,Default,,0,0,0,,Apa mereka turis?
+Dialogue: 0,0:18:53.73,0:18:54.76,Default,,0,0,0,,Apa kalian sedang liburan?
+Dialogue: 0,0:18:54.90,0:18:56.06,Default,,0,0,0,,Tidak, tidak.\NKami tinggal di sini.
+Dialogue: 0,0:18:56.20,0:18:57.16,Default,,0,0,0,,Kami sudah tinggal di sini\Nselama 5 bulan.
+Dialogue: 0,0:18:57.30,0:18:58.67,Default,,0,0,0,,Dia seorang koresponden berita televisi.
+Dialogue: 0,0:18:59.49,0:19:02.49,Default,,0,0,0,,Mereka disini bekerja.\NSuaminya reporter TV.
+Dialogue: 0,0:19:05.42,0:19:07.42,Default,,0,0,0,,Aku tak pernah lihat wajahnya.
+Dialogue: 0,0:19:08.44,0:19:10.65,Default,,0,0,0,,Kapan terakhir kali kau bertemu Katie?
+Dialogue: 0,0:19:10.78,0:19:12.61,Default,,0,0,0,,Jam 11 pagi. Um...
+Dialogue: 0,0:19:13.55,0:19:14.85,Default,,0,0,0,,Lalu aku berangkat kerja,
+Dialogue: 0,0:19:14.98,0:19:17.09,Default,,0,0,0,,dan kau di rumah bersama anak-anak.
+Dialogue: 0,0:19:17.45,0:19:18.59,Default,,0,0,0,,Dan itu saja.
+Dialogue: 0,0:19:20.29,0:19:21.69,Default,,0,0,0,,Tn. Cannon.
+Dialogue: 0,0:19:24.53,0:19:26.33,Default,,0,0,0,,Sekitar pukul 3 sore.
+Dialogue: 0,0:19:26.35,0:19:28.45,Default,,0,0,0,,Ayahnya yang terakhir melihat anak itu.
+Dialogue: 0,0:19:29.36,0:19:30.77,Default,,0,0,0,,Tunggu, aku punya ini.
+Dialogue: 0,0:19:31.10,0:19:33.94,Default,,0,0,0,,Seseorang, siapapun yang menculiknya,\Nmemberinya ini.
+Dialogue: 0,0:19:36.46,0:19:40.46,Default,,0,0,0,,Katanya anak itu diberi hadiah ini.
+Dialogue: 0,0:19:41.48,0:19:44.48,Default,,0,0,0,,Sepertinya anak itu dimanipulasi.
+Dialogue: 0,0:19:46.41,0:19:48.41,Default,,0,0,0,,Atau mungkin saja mereka bohong.
+Dialogue: 0,0:19:48.52,0:19:50.05,Default,,0,0,0,,Apa yang dia katakan?
+Dialogue: 0,0:19:50.42,0:19:51.29,Default,,0,0,0,,Apa yang dia katakan?
+Dialogue: 0,0:19:51.31,0:19:53.41,Default,,0,0,0,,Selalu mulai dengan menyelidiki\Ndalam keluarga.
+Dialogue: 0,0:19:53.43,0:19:57.43,Default,,0,0,0,,Mereka mungkin tak sengaja membunuhnya\Ndan berusaha menutupinya.
+Dialogue: 0,0:19:57.59,0:19:58.79,Default,,0,0,0,,Hey.
+Dialogue: 0,0:19:58.93,0:20:00.80,Default,,0,0,0,,Kau kira aku tak paham\Ndengan yang kau bicarakan?
+Dialogue: 0,0:20:01.20,0:20:02.83,Default,,0,0,0,,Menurutmu kami yang melakukan ini?
+Dialogue: 0,0:20:03.03,0:20:05.10,Default,,0,0,0,,Apa menurutmu kami melakukan\Nsesuatu yang buruk pada putri kami sendiri?
+Dialogue: 0,0:20:05.23,0:20:06.50,Default,,0,0,0,,Apa masalahmu?
+Dialogue: 0,0:20:06.77,0:20:08.74,Default,,0,0,0,,Apa kau mau membantu kami?
+Dialogue: 0,0:20:08.87,0:20:10.77,Default,,0,0,0,,Kirim seseorang ke sana untuk mencarinya!
+Dialogue: 0,0:20:10.97,0:20:12.44,Default,,0,0,0,,Ada seseorang telah menculik anak kami!
+Dialogue: 0,0:20:16.46,0:20:19.46,Default,,0,0,0,,SEKILAS BERITA
+Dialogue: 0,0:20:20.65,0:20:22.08,Default,,0,0,0,,{\i1}Sekilas berita\Ntepat di jam ini{\i0}
+Dialogue: 0,0:20:22.22,0:20:24.45,Default,,0,0,0,,{\i1}di sini, di ABQ News 82.{\i0}
+Dialogue: 0,0:20:25.22,0:20:28.26,Default,,0,0,0,,{\i1}Kemacetan lalu lintas di jalan raya 25\Nsebelah selatan Albuquerque{\i0}
+Dialogue: 0,0:20:28.46,0:20:30.49,Default,,0,0,0,,{\i1}setelah seekor kura-kura gurun besar{\i0}
+Dialogue: 0,0:20:30.63,0:20:32.89,Default,,0,0,0,,{\i1}terlihat sedang berusaha\Nmenyeberang jalan raya.{\i0}
+Dialogue: 0,0:20:42.42,0:20:46.32,Default,,0,0,0,,8 TAHUN KEMUDIAN
+Dialogue: 0,0:20:48.44,0:20:53.24,Default,,0,0,0,,ALBUQUERQUE, NEW MEXICO
+Dialogue: 0,0:21:02.47,0:21:12.27,Default,,0,0,0,,Seminggu {\c&H00ff80&}Full HADIR akan di berikan 75k{\c}\Nsecara cuma-cuma | Ada juga {\c&H00ff80&}BONUS MALMING 50k{\c}\NKetik di GOOGLE : {\c&H8080ff&}AYUKBET
+Dialogue: 0,0:21:41.40,0:21:42.43,Default,,0,0,0,,Ibu?
+Dialogue: 0,0:21:44.83,0:21:45.67,Default,,0,0,0,,Hey.
+Dialogue: 0,0:21:46.50,0:21:47.90,Default,,0,0,0,,Boleh kupakai komputermu?
+Dialogue: 0,0:21:49.27,0:21:50.40,Default,,0,0,0,,Untuk apa?
+Dialogue: 0,0:21:51.07,0:21:52.31,Default,,0,0,0,,Buat mencetak sesuatu.
+Dialogue: 0,0:21:53.24,0:21:54.08,Default,,0,0,0,,Sesuatu apa?
+Dialogue: 0,0:21:54.44,0:21:55.78,Default,,0,0,0,,Sesuatu yang kau kucetak.
+Dialogue: 0,0:21:56.51,0:21:58.65,Default,,0,0,0,,Oke. Ayo.
+Dialogue: 0,0:22:01.47,0:22:05.47,Default,,0,0,0,,"KATIE"
+Dialogue: 0,0:22:05.50,0:22:08.40,Default,,0,0,0,,Tuhan, berkatilah keluargaku.
+Dialogue: 0,0:22:08.42,0:22:11.42,Default,,0,0,0,,Berkatilah kami yang duduk\Ndekat meja makan ini.
+Dialogue: 0,0:22:12.44,0:22:14.44,Default,,0,0,0,,Berkatilah makanan yang akan kami makan.
+Dialogue: 0,0:22:15.47,0:22:18.47,Default,,0,0,0,,Berkatilah tangan yang memasaknya.
+Dialogue: 0,0:22:20.77,0:22:22.17,Default,,0,0,0,,Aku mendengarmu, Charlie.
+Dialogue: 0,0:22:22.30,0:22:23.04,Default,,0,0,0,,Ayah!
+Dialogue: 0,0:22:23.17,0:22:24.31,Default,,0,0,0,,Hey.
+Dialogue: 0,0:22:24.44,0:22:25.94,Default,,0,0,0,,Gigi susu terakhirku akhirnya goyang.
+Dialogue: 0,0:22:26.07,0:22:27.41,Default,,0,0,0,,Oh, coba ayah lihat.
+Dialogue: 0,0:22:27.68,0:22:29.08,Default,,0,0,0,,Mau ayah cabut pakai tang?
+Dialogue: 0,0:22:29.28,0:22:30.05,Default,,0,0,0,,Tidak.\N/ Kau yakin?
+Dialogue: 0,0:22:33.47,0:22:37.27,Default,,0,0,0,,Berkatilah kami Tuhan, Yesus Kristus. Amin.
+Dialogue: 0,0:22:37.35,0:22:38.55,Default,,0,0,0,,Amin.\N/ Amin.
+Dialogue: 0,0:22:40.12,0:22:41.56,Default,,0,0,0,,Maaf semuanya.
+Dialogue: 0,0:22:41.69,0:22:44.19,Default,,0,0,0,,Lalu lintas macet di jalan raya 25\Ngara-gara seekor kura-kura.
+Dialogue: 0,0:22:44.33,0:22:45.63,Default,,0,0,0,,Kura-kura jenis apa?
+Dialogue: 0,0:22:45.76,0:22:47.33,Default,,0,0,0,,Kura-kura sebesar truk.
+Dialogue: 0,0:22:47.46,0:22:48.73,Default,,0,0,0,,Kura-kura sebesar truk?
+Dialogue: 0,0:22:48.96,0:22:49.93,Default,,0,0,0,,Bagaimana harimu?
+Dialogue: 0,0:22:50.07,0:22:51.03,Default,,0,0,0,,Bagus.
+Dialogue: 0,0:22:51.17,0:22:53.07,Default,,0,0,0,,Aku mengganti 13 kateter\Ndalam sejam.
+Dialogue: 0,0:22:53.20,0:22:54.17,Default,,0,0,0,,Kerja bagus, sayang.
+Dialogue: 0,0:22:54.30,0:22:55.57,Default,,0,0,0,,Yang eek\Natau yang pipis?
+Dialogue: 0,0:22:55.70,0:22:57.37,Default,,0,0,0,,Aku mendapat telepon katanya\Naku telah dinominasikan
+Dialogue: 0,0:22:57.51,0:22:58.81,Default,,0,0,0,,sebagai wakil ketua klub bridge-ku.
+Dialogue: 0,0:22:58.94,0:23:00.81,Default,,0,0,0,,Tidak diperbolehkan\Nmemakai ponsel di meja makan.
+Dialogue: 0,0:23:00.94,0:23:02.14,Default,,0,0,0,,Kuingin tunjukkan sesuatu pada ibu.
+Dialogue: 0,0:23:02.94,0:23:03.65,Default,,0,0,0,,Apa itu?
+Dialogue: 0,0:23:03.78,0:23:05.31,Default,,0,0,0,,Itu informasi tentang
+Dialogue: 0,0:23:05.45,0:23:08.42,Default,,0,0,0,,karya wisata sekolah\Nke Eropa di musim semi.
+Dialogue: 0,0:23:10.35,0:23:11.45,Default,,0,0,0,,Mengapa kau menunjukkan ini pada ibu?
+Dialogue: 0,0:23:11.65,0:23:12.82,Default,,0,0,0,,Tinggal 6 bulan lagi,
+Dialogue: 0,0:23:12.95,0:23:14.42,Default,,0,0,0,,dan kuingin ibu tahu.
+Dialogue: 0,0:23:14.56,0:23:16.12,Default,,0,0,0,,Menurut nenek gigiku\Nakan copot malam ini?
+Dialogue: 0,0:23:17.83,0:23:18.79,Default,,0,0,0,,Kau tahu,
+Dialogue: 0,0:23:18.93,0:23:20.36,Default,,0,0,0,,kau tak perlu ikutan ini.
+Dialogue: 0,0:23:20.49,0:23:22.43,Default,,0,0,0,,Aku tahu tak perlu ikut,\Ntapi aku ingin.
+Dialogue: 0,0:23:22.73,0:23:24.83,Default,,0,0,0,,Yah, itu tidak mungkin.
+Dialogue: 0,0:23:25.93,0:23:26.57,Default,,0,0,0,,Mengapa tidak?
+Dialogue: 0,0:23:26.70,0:23:27.97,Default,,0,0,0,,Karena memang tidak mungkin.
+Dialogue: 0,0:23:28.27,0:23:29.91,Default,,0,0,0,,Kapan terakhir kali kita\Npergi berlibur bersama keluarga?
+Dialogue: 0,0:23:30.04,0:23:31.71,Default,,0,0,0,,Oke, kita akan bahas ini\Nlain kali saja. Oke?
+Dialogue: 0,0:23:31.84,0:23:33.98,Default,,0,0,0,,Tidak bakalan.\NKita tak pernah membahasnya.
+Dialogue: 0,0:23:34.11,0:23:36.28,Default,,0,0,0,,Jangan bantah ibumu, ngerti?
+Dialogue: 0,0:23:36.78,0:23:38.48,Default,,0,0,0,,Ibu hanya takut\Nterjadi sesuatu padaku,
+Dialogue: 0,0:23:38.61,0:23:39.92,Default,,0,0,0,,Tapi aku bukan Katie, Bu.
+Dialogue: 0,0:23:41.28,0:23:42.75,Default,,0,0,0,,Jaga ucapanmu, Seb.
+Dialogue: 0,0:23:53.66,0:23:55.56,Default,,0,0,0,,Apa aku pernah liburan?
+Dialogue: 0,0:23:56.49,0:23:58.49,Default,,0,0,0,,Diam dan makanlah jagungmu.
+Dialogue: 0,0:24:06.41,0:24:12.21,Default,,0,0,0,,GURUN TIMUR, MESIR
+Dialogue: 0,0:25:59.44,0:26:01.44,Default,,0,0,0,,Apa yang tertulis di laporan citra-foto?
+Dialogue: 0,0:26:01.46,0:26:05.46,Default,,0,0,0,,Tak ada. Tak terlihat di Sinar-X ataupun MRI.
+Dialogue: 0,0:26:07.48,0:26:08.78,Default,,0,0,0,,Mungkin dilapisi timah.
+Dialogue: 0,0:26:09.00,0:26:09.73,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:26:10.46,0:26:13.46,Default,,0,0,0,,Itu dari lokasi penggalian mana?
+Dialogue: 0,0:26:14.48,0:26:16.48,Default,,0,0,0,,Itu ditemukan dalam bangkai pesawat dekat Aswan.
+Dialogue: 0,0:26:17.40,0:26:21.40,Default,,0,0,0,,Pesawat jatuh tapi itu masih utuh?
+Dialogue: 0,0:26:22.43,0:26:25.43,Default,,0,0,0,,Kau pernah lihat benda seperti ini sebelumnya?
+Dialogue: 0,0:26:25.65,0:26:26.78,Default,,0,0,0,,Uh-uh.
+Dialogue: 0,0:27:20.41,0:27:22.41,Default,,0,0,0,,Kameranya, cepat.
+Dialogue: 0,0:27:35.43,0:27:37.43,Default,,0,0,0,,Tuhan tolonglah kami.
+Dialogue: 0,0:28:08.45,0:28:13.45,Default,,0,0,0,,Menang dapat {\c&H00ff80&}REBATE 1,3%{\c}\Ndan kalah juga dapat {\c&H00ff80&}CASHBACK 5%{\c}\NCari kami di GOOGLE : AYUKBET
+Dialogue: 0,0:28:21.66,0:28:24.27,Default,,0,0,0,,{\i1}♪ Blinded by the light ♪{\i0}
+Dialogue: 0,0:28:24.83,0:28:28.37,Default,,0,0,0,,{\i1}♪ Revved up like a deuce{\i0}\N{\i1}Another runner in the night ♪{\i0}
+Dialogue: 0,0:28:30.71,0:28:32.84,Default,,0,0,0,,Katak. Jelas sekali katak.
+Dialogue: 0,0:28:32.97,0:28:35.34,Default,,0,0,0,,Anak itu benar-benar seperti katak.
+Dialogue: 0,0:28:35.48,0:28:36.68,Default,,0,0,0,,Bagaimana dengan guruku?
+Dialogue: 0,0:28:37.05,0:28:38.21,Default,,0,0,0,,Tikus.\N/ Eh, tikus.
+Dialogue: 0,0:28:38.35,0:28:39.95,Default,,0,0,0,,Menurutku dia terlihat agak seperti katak.
+Dialogue: 0,0:28:40.08,0:28:41.42,Default,,0,0,0,,Tidak, kami selama ini\Nmemanggilnya muka tikus
+Dialogue: 0,0:28:41.55,0:28:42.82,Default,,0,0,0,,di belakangnya di kelas.
+Dialogue: 0,0:28:42.95,0:28:44.89,Default,,0,0,0,,Bagus.\N/ Oke, oke, aku punya ide bagus.
+Dialogue: 0,0:28:45.02,0:28:48.59,Default,,0,0,0,,Taylor Swift.\N/ Tidak bagus, Seb! Dia malaikat.
+Dialogue: 0,0:28:48.96,0:28:50.19,Default,,0,0,0,,Itu tak bisa dibantah, Sebastian.
+Dialogue: 0,0:28:50.33,0:28:52.06,Default,,0,0,0,,Bukankah permainannya\Nnamanya "Tikus atau Katak?"
+Dialogue: 0,0:28:52.19,0:28:53.53,Default,,0,0,0,,"Tikus, Katak, atau Malaikat"
+Dialogue: 0,0:28:53.66,0:28:54.66,Default,,0,0,0,,jika itu Tay.\N/ Oke.
+Dialogue: 0,0:28:56.40,0:28:58.67,Default,,0,0,0,,Kurasa ayah ini jelas katak.\N/ Ya.
+Dialogue: 0,0:28:59.10,0:29:00.30,Default,,0,0,0,,Benar 'kan?\N/ Ya.
+Dialogue: 0,0:29:00.64,0:29:03.04,Default,,0,0,0,,Bagaimana denganmu, sayang?
+Dialogue: 0,0:29:03.17,0:29:04.31,Default,,0,0,0,,Oh, ya?
+Dialogue: 0,0:29:07.68,0:29:08.98,Default,,0,0,0,,Boleh aku makan 2 potong hari ini?
+Dialogue: 0,0:29:09.11,0:29:10.31,Default,,0,0,0,,Tidak.\N/ Boleh, sayang.
+Dialogue: 0,0:29:10.45,0:29:13.21,Default,,0,0,0,,Tidak. Kau tak akan bisa\Nmenghabiskan dua potong. Tak akan.
+Dialogue: 0,0:29:13.35,0:29:15.12,Default,,0,0,0,,Itu 2 potong pizza, sayang.\N/ Tidak.
+Dialogue: 0,0:29:15.25,0:29:16.85,Default,,0,0,0,,Kau tahu?
+Dialogue: 0,0:29:19.42,0:29:20.46,Default,,0,0,0,,Halo?
+Dialogue: 0,0:29:20.99,0:29:23.02,Default,,0,0,0,,{\i1}Halo.\NApakah ini Tn. Charlie Cannon?{\i0}
+Dialogue: 0,0:29:23.16,0:29:25.26,Default,,0,0,0,,Maaf, sobat. Aku tak percaya\Ndengan yang kau katakan.
+Dialogue: 0,0:29:25.59,0:29:26.86,Default,,0,0,0,,{\i1}Tidak, tidak, tidak.{\i0}
+Dialogue: 0,0:29:27.00,0:29:29.26,Default,,0,0,0,,{\i1}Tn. Cannon, namaku Bryce Vogel.{\i0}
+Dialogue: 0,0:29:29.40,0:29:32.50,Default,,0,0,0,,{\i1}Aku Wakil Kepala Misi di\NKedutaan Besar AS di Kairo.{\i0}
+Dialogue: 0,0:29:34.90,0:29:36.54,Default,,0,0,0,,Uh, sebentar.
+Dialogue: 0,0:29:37.24,0:29:39.81,Default,,0,0,0,,Anak-anak, tetaplah di mobil.
+Dialogue: 0,0:29:44.55,0:29:46.48,Default,,0,0,0,,{\i1}Halo, Tn. Cannon?\NApa masih dengar?{\i0}
+Dialogue: 0,0:29:46.62,0:29:48.05,Default,,0,0,0,,Uh, ya, ya, aku dengar.
+Dialogue: 0,0:29:48.18,0:29:49.95,Default,,0,0,0,,{\i1}Apa istrimu bersamamu, pak?{\i0}
+Dialogue: 0,0:29:50.82,0:29:52.39,Default,,0,0,0,,Apa kau ada informasi baru?
+Dialogue: 0,0:29:52.52,0:29:53.82,Default,,0,0,0,,{\i1}Ya, Bu.{\i0}
+Dialogue: 0,0:29:54.59,0:29:57.19,Default,,0,0,0,,{\i1}Putrimu, Katie, telah ditemukan.{\i0}
+Dialogue: 0,0:29:58.89,0:30:00.50,Default,,0,0,0,,{\i1}Dia masih hidup.{\i0}
+Dialogue: 0,0:30:04.67,0:30:06.00,Default,,0,0,0,,Apa?
+Dialogue: 0,0:30:17.42,0:30:22.22,Default,,0,0,0,,KAIRO, MESIR
+Dialogue: 0,0:30:32.09,0:30:34.20,Default,,0,0,0,,Sangat penting bagi kalian\Nuntuk mempersiapkan mental
+Dialogue: 0,0:30:34.33,0:30:35.96,Default,,0,0,0,,dengan yang akan kalian lihat.
+Dialogue: 0,0:30:38.17,0:30:42.00,Default,,0,0,0,,Katie mengalami trauma kulit yang luas.
+Dialogue: 0,0:30:42.14,0:30:45.34,Default,,0,0,0,,Kemungkinan besar disebabkan oleh kurangnya\Npenerangan dan kekurangan gizi yang ekstrem.
+Dialogue: 0,0:30:46.07,0:30:48.51,Default,,0,0,0,,Dia dikurung dalam\Nkeadaan katatonik yang dalam,
+Dialogue: 0,0:30:48.64,0:30:52.55,Default,,0,0,0,,yang menyebabkannya melakukan\Ngerakan tak menentu dan ekstrem.
+Dialogue: 0,0:30:52.68,0:30:54.48,Default,,0,0,0,,Tiba-tiba mengulang suara.
+Dialogue: 0,0:30:54.62,0:30:55.95,Default,,0,0,0,,Gerakan fisik yang aneh.
+Dialogue: 0,0:30:57.42,0:30:59.52,Default,,0,0,0,,Kami telah memberinya\Nobat penenang dosis tinggi.
+Dialogue: 0,0:30:59.95,0:31:01.09,Default,,0,0,0,,Ini membantu.
+Dialogue: 0,0:31:01.82,0:31:05.43,Default,,0,0,0,,Tapi tingkat penderitaannya\Nterus berlanjut.
+Dialogue: 0,0:31:07.06,0:31:10.06,Default,,0,0,0,,Jadi, kalian perlu bersikap lembut\Ndan tenang padanya.
+Dialogue: 0,0:31:10.67,0:31:13.77,Default,,0,0,0,,Jangan ada gerakan tiba-tiba.\NJangan ada suara keras.
+Dialogue: 0,0:31:14.30,0:31:16.00,Default,,0,0,0,,Pihak berwenang Mesir akan\Nmerahasiakan penemuannya
+Dialogue: 0,0:31:16.14,0:31:18.97,Default,,0,0,0,,dari pers untuk memberi waktu yang cukup
+Dialogue: 0,0:31:19.11,0:31:22.38,Default,,0,0,0,,pada kalian dan keluarga untuk\Nmenyesuaikan diri dengan situasi baru.
+Dialogue: 0,0:31:25.51,0:31:26.58,Default,,0,0,0,,Siap dimulai?
+Dialogue: 0,0:32:28.21,0:32:29.31,Default,,0,0,0,,Hey.
+Dialogue: 0,0:32:30.21,0:32:31.68,Default,,0,0,0,,Hey, Butterfly.
+Dialogue: 0,0:32:32.55,0:32:33.65,Default,,0,0,0,,Ini Ibu dan Ayah.
+Dialogue: 0,0:32:34.72,0:32:36.35,Default,,0,0,0,,Ya, ya.
+Dialogue: 0,0:32:37.05,0:32:38.95,Default,,0,0,0,,Ya, kami di sini.
+Dialogue: 0,0:32:40.22,0:32:41.36,Default,,0,0,0,,Kami sudah di sini.
+Dialogue: 0,0:32:46.96,0:32:48.60,Default,,0,0,0,,Goresan-goresan itu?
+Dialogue: 0,0:32:48.73,0:32:50.33,Default,,0,0,0,,Disebabkan dia sendiri.
+Dialogue: 0,0:32:50.47,0:32:52.80,Default,,0,0,0,,Saat kami menerimanya,\Ndia sedang mencakar-cakar kulitnya.
+Dialogue: 0,0:33:07.42,0:33:10.35,Default,,0,0,0,,Detak jantungnya terdengar sangat kuat.\NBegitu kuat.
+Dialogue: 0,0:33:11.32,0:33:13.19,Default,,0,0,0,,Kondisi vitalnya semuanya baik.
+Dialogue: 0,0:33:13.39,0:33:14.82,Default,,0,0,0,,Bahkan dalam pengujian,
+Dialogue: 0,0:33:14.96,0:33:17.83,Default,,0,0,0,,kami belum pernah mengamati\Ndenyut nadinya meningkat di atas 85.
+Dialogue: 0,0:33:18.26,0:33:20.03,Default,,0,0,0,,Secara fisik dia kuat.
+Dialogue: 0,0:33:20.39,0:33:22.36,Default,,0,0,0,,Kenyamanan rumah\Nakan menjadi obat terbaik
+Dialogue: 0,0:33:22.50,0:33:25.30,Default,,0,0,0,,untuk membantunya\Nkeluar dari kondisi lumpuh ini.
+Dialogue: 0,0:33:31.01,0:33:32.17,Default,,0,0,0,,Katie.
+Dialogue: 0,0:33:53.06,0:33:54.73,Default,,0,0,0,,Katie. Tak apa.
+Dialogue: 0,0:34:25.19,0:34:26.29,Default,,0,0,0,,Apa ini?
+Dialogue: 0,0:34:26.76,0:34:28.43,Default,,0,0,0,,Ini sarkofagus basal.
+Dialogue: 0,0:34:28.56,0:34:31.10,Default,,0,0,0,,Berusia antara 2 sampai 3 ribu tahun.
+Dialogue: 0,0:34:31.60,0:34:33.67,Default,,0,0,0,,Katie sedang diangkut di dalamnya
+Dialogue: 0,0:34:33.80,0:34:35.44,Default,,0,0,0,,ketika pesawat itu jatuh.
+Dialogue: 0,0:34:36.14,0:34:37.74,Default,,0,0,0,,Apa yang sebenarnya dilakukan putri kami
+Dialogue: 0,0:34:37.87,0:34:40.27,Default,,0,0,0,,di dalam sarkofagus\Nberusia 3.000 tahun?
+Dialogue: 0,0:34:40.98,0:34:43.34,Default,,0,0,0,,Jika kau ingin menyelundupkan\Nsesuatu atau bahkan manusia
+Dialogue: 0,0:34:43.48,0:34:45.18,Default,,0,0,0,,di negara ini dan menghindari deteksi,
+Dialogue: 0,0:34:45.31,0:34:47.65,Default,,0,0,0,,tempat terbaik adalah\Ndi dalam sejarah kami.
+Dialogue: 0,0:34:48.02,0:34:51.25,Default,,0,0,0,,Perdagangan artefak ilegal\Ndiabaikan begitu saja.
+Dialogue: 0,0:34:51.72,0:34:54.96,Default,,0,0,0,,Ini kedok sempurna\Nuntuk perdagangan manusia.
+Dialogue: 0,0:34:55.76,0:34:58.03,Default,,0,0,0,,Kurasa kita harus\Nkembali ke atas menemuinya.
+Dialogue: 0,0:34:58.36,0:34:59.66,Default,,0,0,0,,Aku ingat kamu.
+Dialogue: 0,0:35:00.96,0:35:03.83,Default,,0,0,0,,Kau ada ada pada hari dia diculik.
+Dialogue: 0,0:35:04.53,0:35:07.77,Default,,0,0,0,,Kau juga punya teori\Nsendiri saat itu 'kan?
+Dialogue: 0,0:35:08.44,0:35:10.54,Default,,0,0,0,,Kau anggap aku\Ntelah berbuat sesuatu terhadapnya.
+Dialogue: 0,0:35:11.27,0:35:13.68,Default,,0,0,0,,Itu pendapat atasanku.
+Dialogue: 0,0:35:14.01,0:35:15.71,Default,,0,0,0,,Charlie, ayo kita kembali ke atas.
+Dialogue: 0,0:35:16.48,0:35:19.18,Default,,0,0,0,,Lalu, di mana pendapat ahli beliau malam ini?
+Dialogue: 0,0:35:20.68,0:35:22.82,Default,,0,0,0,,Terkubur di\NPemakaman Bab al-Wazir.
+Dialogue: 0,0:35:26.49,0:35:28.79,Default,,0,0,0,,Apa kau akan lebih berupaya
+Dialogue: 0,0:35:28.92,0:35:32.16,Default,,0,0,0,,dalam menemukan siapa yang\Nmenculik putri kami dibanding upaya dia?
+Dialogue: 0,0:35:34.26,0:35:35.56,Default,,0,0,0,,Ya.
+Dialogue: 0,0:35:36.00,0:35:37.73,Default,,0,0,0,,{\i1}Musik rock klasik.{\i0}
+Dialogue: 0,0:35:37.87,0:35:40.57,Default,,0,0,0,,{\i1}Sepanjang waktu,\Ndi seluruh New Mexico.{\i0}
+Dialogue: 0,0:35:41.10,0:35:42.84,Default,,0,0,0,,Boleh aku minta sekarang, Güelita (nenek)?
+Dialogue: 0,0:35:42.97,0:35:44.87,Default,,0,0,0,,Tidak sampai kakak perempuanmu datang.
+Dialogue: 0,0:35:45.01,0:35:46.17,Default,,0,0,0,,Tapi ini kue yang banyak sekali.
+Dialogue: 0,0:35:46.31,0:35:48.54,Default,,0,0,0,,Dia sudah banyak melewatkan ulang tahun.
+Dialogue: 0,0:35:48.68,0:35:49.78,Default,,0,0,0,,Bailah.
+Dialogue: 0,0:35:52.31,0:35:54.62,Default,,0,0,0,,Apa ini lebih cantik dariku?
+Dialogue: 0,0:35:54.75,0:35:56.28,Default,,0,0,0,,Tak ada yang lebih cantik darimu.
+Dialogue: 0,0:35:56.42,0:35:58.15,Default,,0,0,0,,Jawaban yang bagus. Kau akan\Ntetap ada dalam surat wasiatku.
+Dialogue: 0,0:36:03.29,0:36:05.13,Default,,0,0,0,,Ayah! Ayah!
+Dialogue: 0,0:36:05.26,0:36:06.23,Default,,0,0,0,,Wow.
+Dialogue: 0,0:36:06.36,0:36:07.53,Default,,0,0,0,,Ibu.
+Dialogue: 0,0:36:08.90,0:36:09.97,Default,,0,0,0,,Baiklah. Kau siap
+Dialogue: 0,0:36:10.10,0:36:11.30,Default,,0,0,0,,bertemu dengan kakakmu?\N/ Ya.
+Dialogue: 0,0:36:11.43,0:36:12.17,Default,,0,0,0,,Dia masih sangat lemah, ngerti?\N/ Hey.
+Dialogue: 0,0:36:12.30,0:36:13.47,Default,,0,0,0,,Ibu.
+Dialogue: 0,0:36:13.60,0:36:14.47,Default,,0,0,0,,Bersikaplah lembut.\N/ Baik, Ayah.
+Dialogue: 0,0:36:14.60,0:36:15.84,Default,,0,0,0,,Kau tak apa-apa?\N/ Ayo.
+Dialogue: 0,0:36:15.97,0:36:17.24,Default,,0,0,0,,Tunjukkan cucu perempuanku.\N/ Ya, baiklah.
+Dialogue: 0,0:36:41.03,0:36:42.86,Default,,0,0,0,,Terus naik.
+Dialogue: 0,0:36:43.00,0:36:44.43,Default,,0,0,0,,Tunggu.
+Dialogue: 0,0:37:11.49,0:37:12.36,Default,,0,0,0,,Hey, kemarilah.
+Dialogue: 0,0:37:12.49,0:37:14.33,Default,,0,0,0,,Mari sapa kakakmu.
+Dialogue: 0,0:37:18.90,0:37:21.04,Default,,0,0,0,,Tidak ada yang perlu ditakutkan, oke?
+Dialogue: 0,0:37:21.27,0:37:22.47,Default,,0,0,0,,Hey, Katie.
+Dialogue: 0,0:37:23.07,0:37:24.04,Default,,0,0,0,,Aku Maud.
+Dialogue: 0,0:37:24.37,0:37:25.94,Default,,0,0,0,,Adik perempuanmu.
+Dialogue: 0,0:37:26.98,0:37:29.34,Default,,0,0,0,,Jadi, umurku sekarang hampir\Nsama denganmu ketika kau...
+Dialogue: 0,0:37:29.48,0:37:30.65,Default,,0,0,0,,...kau tahu.
+Dialogue: 0,0:37:31.31,0:37:33.38,Default,,0,0,0,,Dan Ibu memberitahuku
+Dialogue: 0,0:37:33.52,0:37:37.05,Default,,0,0,0,,kalau kau menyukai Taylor Swift,\Ndan yah, aku menyukai Taylor.
+Dialogue: 0,0:37:37.19,0:37:39.42,Default,,0,0,0,,Dan mungkin kau banyak\Nmelewatkan musik barunya.
+Dialogue: 0,0:37:47.73,0:37:48.46,Default,,0,0,0,,Seb?
+Dialogue: 0,0:37:48.60,0:37:49.73,Default,,0,0,0,,Aku tak tahu harus berkata apa padanya.
+Dialogue: 0,0:37:49.87,0:37:50.97,Default,,0,0,0,,Katakan apa saja.
+Dialogue: 0,0:37:55.90,0:37:57.91,Default,,0,0,0,,Hey, ibu mengerti.\NMemang berat, ibu tahu.
+Dialogue: 0,0:37:58.04,0:38:00.01,Default,,0,0,0,,Tapi dia kakak perempuanmu.
+Dialogue: 0,0:38:00.47,0:38:02.38,Default,,0,0,0,,Paham? Dan kita semua\Nperlu mendukungnya,
+Dialogue: 0,0:38:02.51,0:38:04.91,Default,,0,0,0,,dan membantunya mengingat\Nbila kita adalah keluarganya.
+Dialogue: 0,0:38:05.05,0:38:09.58,Default,,0,0,0,,Dia hanya butuh perhatian,\Ndukungan, dan waktu kita.
+Dialogue: 0,0:38:10.02,0:38:10.72,Default,,0,0,0,,Amin.
+Dialogue: 0,0:38:21.96,0:38:23.67,Default,,0,0,0,,Kau tak apa. Kau baik-baik saja.
+Dialogue: 0,0:38:58.49,0:39:03.49,Default,,0,0,0,,Daftar Baru langsung dapat {\c&H00ff80&}Bonus 50%.{\c}\NDengan DP 25k sampai 100k, bisa {\c&H00ff80&}klaim Bonus Harian 40k!{\c}\NKetik di GOOGLE : AYUKBET
+Dialogue: 0,0:39:17.38,0:39:18.69,Default,,0,0,0,,{\i1}♪ I'm fuckin' sick bro ♪{\i0}
+Dialogue: 0,0:39:19.82,0:39:21.82,Default,,0,0,0,,{\i1}♪ Don't be a dick bro ♪{\i0}
+Dialogue: 0,0:39:23.12,0:39:24.26,Default,,0,0,0,,{\i1}♪ I might be ♪{\i0}
+Dialogue: 0,0:39:24.39,0:39:25.86,Default,,0,0,0,,{\i1}♪ Underrated on the internet ♪{\i0}
+Dialogue: 0,0:39:25.99,0:39:27.30,Default,,0,0,0,,{\i1}♪ This song's{\i0}\N{\i1}A fuckin' hit though ♪{\i0}
+Dialogue: 0,0:39:27.43,0:39:28.43,Default,,0,0,0,,Seb.
+Dialogue: 0,0:39:29.23,0:39:30.13,Default,,0,0,0,,Seb.
+Dialogue: 0,0:39:30.53,0:39:31.63,Default,,0,0,0,,Seb!
+Dialogue: 0,0:39:33.77,0:39:35.24,Default,,0,0,0,,Apa-apaan, Maudie?
+Dialogue: 0,0:39:35.37,0:39:36.61,Default,,0,0,0,,Aku agak ketakutan.
+Dialogue: 0,0:39:41.54,0:39:42.88,Default,,0,0,0,,Itu cuma serigala.
+Dialogue: 0,0:39:43.08,0:39:44.55,Default,,0,0,0,,Tidak, didekatnya Katie.
+Dialogue: 0,0:39:45.48,0:39:47.45,Default,,0,0,0,,Seperti kata Ibu.
+Dialogue: 0,0:39:47.58,0:39:50.15,Default,,0,0,0,,Dia butuh kepedulian, dukungan,
+Dialogue: 0,0:39:50.45,0:39:52.09,Default,,0,0,0,,dan waktu.
+Dialogue: 0,0:39:52.32,0:39:54.79,Default,,0,0,0,,Dan...\N/ Suntikan.
+Dialogue: 0,0:40:01.41,0:40:03.81,Default,,0,0,0,,[PENGHARGAAN JURNALIS PEMULA:\NSIARAN PEMBERITAAN TERBAIK: Charlie Cannon]
+Dialogue: 0,0:40:38.77,0:40:41.07,Default,,0,0,0,,Apa kau ingat hari\Nkita pindah ke sini
+Dialogue: 0,0:40:41.20,0:40:43.00,Default,,0,0,0,,untuk tinggal bersama Abuelita?
+Dialogue: 0,0:40:43.77,0:40:47.51,Default,,0,0,0,,Kau baru berusia 3 tahun.\NDan kau sangat gembira.
+Dialogue: 0,0:40:47.64,0:40:49.78,Default,,0,0,0,,Apa kau ingin tahu\Nmengapa kau begitu gembira?
+Dialogue: 0,0:40:50.55,0:40:52.21,Default,,0,0,0,,Karena kau mendapatkan kamar ini
+Dialogue: 0,0:40:52.35,0:40:54.72,Default,,0,0,0,,yang juga kamarku waktu kecil.
+Dialogue: 0,0:40:55.18,0:40:57.15,Default,,0,0,0,,Apa kau ingat itu?
+Dialogue: 0,0:41:55.48,0:41:56.58,Default,,0,0,0,,Seb?
+Dialogue: 0,0:41:56.91,0:41:58.05,Default,,0,0,0,,Apa?
+Dialogue: 0,0:42:18.63,0:42:19.70,Default,,0,0,0,,Seb!
+Dialogue: 0,0:42:20.40,0:42:22.00,Default,,0,0,0,,Ada suara-suara aneh.
+Dialogue: 0,0:42:23.10,0:42:25.21,Default,,0,0,0,,Sudah kubilang,\Nitu cuma serigala.
+Dialogue: 0,0:42:25.41,0:42:27.94,Default,,0,0,0,,Tidak. Suaranya di dalam rumah.
+Dialogue: 0,0:42:28.08,0:42:29.68,Default,,0,0,0,,Mereka tak bisa masuk ke dalam rumah.
+Dialogue: 0,0:43:05.31,0:43:06.28,Default,,0,0,0,,Lari.
+Dialogue: 0,0:43:10.45,0:43:11.69,Default,,0,0,0,,Katie di mana?
+Dialogue: 0,0:43:56.70,0:43:58.13,Default,,0,0,0,,Ada sesuatu di dalam dinding.
+Dialogue: 0,0:44:25.36,0:44:26.39,Default,,0,0,0,,Katie.
+Dialogue: 0,0:44:26.79,0:44:27.80,Default,,0,0,0,,Sayang.
+Dialogue: 0,0:44:38.64,0:44:39.74,Default,,0,0,0,,Katie.
+Dialogue: 0,0:44:44.25,0:44:44.81,Default,,0,0,0,,Katie!
+Dialogue: 0,0:44:48.78,0:44:49.92,Default,,0,0,0,,Katie!
+Dialogue: 0,0:45:04.57,0:45:06.13,Default,,0,0,0,,Apa kau melihat dia?\N/ Tidak.
+Dialogue: 0,0:45:17.41,0:45:18.38,Default,,0,0,0,,Katie.
+Dialogue: 0,0:45:41.50,0:45:42.37,Default,,0,0,0,,Berhenti!
+Dialogue: 0,0:46:08.60,0:46:11.30,Default,,0,0,0,,Pegangi dia.\NJangan sampai dia gerak.
+Dialogue: 0,0:46:38.79,0:46:40.30,Default,,0,0,0,,Apaan sialan?
+Dialogue: 0,0:46:51.91,0:46:53.54,Default,,0,0,0,,Kau mengucap "sialan."
+Dialogue: 0,0:46:56.47,0:46:58.47,Default,,0,0,0,,TK MESA PARK
+Dialogue: 0,0:47:09.73,0:47:12.49,Default,,0,0,0,,Anak-anak, ayah tahu rasanya aneh\Nkembali ke sekolah sekarang,
+Dialogue: 0,0:47:12.63,0:47:16.03,Default,,0,0,0,,tapi kita hanya perlu menjaga agar\Nsemuanya tetap berjalan senormal mungkin.
+Dialogue: 0,0:47:16.23,0:47:17.87,Default,,0,0,0,,Tidak memberitahu siapapun\Nitu bukanlah hal yang normal.
+Dialogue: 0,0:47:18.00,0:47:19.30,Default,,0,0,0,,Aku punya kakak perempuan baru.
+Dialogue: 0,0:47:19.43,0:47:22.44,Default,,0,0,0,,Ayah tahu.\NTapi ini hanya untuk sekarang.
+Dialogue: 0,0:47:23.81,0:47:25.07,Default,,0,0,0,,Sampai nanti.
+Dialogue: 0,0:47:33.88,0:47:35.98,Default,,0,0,0,,Sana berangkat, Seb.\NJangan sampai terlambat.
+Dialogue: 0,0:47:40.76,0:47:42.39,Default,,0,0,0,,Apa yang terjadi padanya, Ayah?
+Dialogue: 0,0:47:44.59,0:47:46.96,Default,,0,0,0,,Dokter di Mesir mengatakan\Ndia kondisinya tak sadar,
+Dialogue: 0,0:47:47.10,0:47:50.16,Default,,0,0,0,,dan itu bisa berminggu-minggu,\Nmungkin berbulan-bulan.
+Dialogue: 0,0:47:50.30,0:47:51.30,Default,,0,0,0,,Tidak.
+Dialogue: 0,0:47:54.40,0:47:56.47,Default,,0,0,0,,Apa yang sebenarnya terjadi padanya?
+Dialogue: 0,0:48:00.78,0:48:02.11,Default,,0,0,0,,Ayah tak tahu, Seb.
+Dialogue: 0,0:48:37.55,0:48:39.55,Default,,0,0,0,,Kau tahu,\Ndia akan memilih warna yang indah.
+Dialogue: 0,0:48:39.85,0:48:41.55,Default,,0,0,0,,Seperti warna cabai, mungkin?
+Dialogue: 0,0:48:43.79,0:48:44.99,Default,,0,0,0,,Tidak.
+Dialogue: 0,0:48:45.12,0:48:46.29,Default,,0,0,0,,Oke.
+Dialogue: 0,0:48:51.39,0:48:54.36,Default,,0,0,0,,Perawatan kaki di rumah sakit itu buruk.
+Dialogue: 0,0:49:58.93,0:50:01.43,Default,,0,0,0,,Kau bisa membuat kalung dari kuku-kuku itu.
+Dialogue: 0,0:50:52.15,0:50:53.41,Default,,0,0,0,,Saat aku punya salon,
+Dialogue: 0,0:50:53.55,0:50:55.35,Default,,0,0,0,,aku selalu sibuk terus, kau tahu.
+Dialogue: 0,0:50:55.48,0:50:58.12,Default,,0,0,0,,Dan suatu hari, kru film datang\Nke kota untuk membuat film,
+Dialogue: 0,0:50:58.25,0:51:00.45,Default,,0,0,0,,bersama Sophia Loren.
+Dialogue: 0,0:51:03.36,0:51:06.13,Default,,0,0,0,,Ah, Sophia.\NKau tahu, dia dulu yang terbaik.
+Dialogue: 0,0:51:06.26,0:51:07.90,Default,,0,0,0,,Orang-orang bilang aku mirip dengannya.
+Dialogue: 0,0:51:08.10,0:51:09.60,Default,,0,0,0,,Kau tahu, suatu malam,
+Dialogue: 0,0:51:09.73,0:51:12.17,Default,,0,0,0,,penata rambutnya mabuk\Nlalu merusak rambutnya,
+Dialogue: 0,0:51:12.30,0:51:13.94,Default,,0,0,0,,dan coba tebak siapa yang\Nmereka panggil untuk memperbaikinya?
+Dialogue: 0,0:51:23.91,0:51:25.91,Default,,0,0,0,,Oh, jijiknya.
+Dialogue: 0,0:51:43.00,0:51:44.23,Default,,0,0,0,,Charlie!
+Dialogue: 0,0:51:47.84,0:51:51.54,Default,,0,0,0,,Apa yang terjadi? Kau tak apa-apa?\NKau baik-baik saja?
+Dialogue: 0,0:51:54.08,0:51:55.44,Default,,0,0,0,,Cepat cari dia.
+Dialogue: 0,0:51:59.01,0:52:00.41,Default,,0,0,0,,Ibu. Ibu.
+Dialogue: 0,0:52:04.09,0:52:05.19,Default,,0,0,0,,Katie?
+Dialogue: 0,0:52:07.22,0:52:08.36,Default,,0,0,0,,Katie?
+Dialogue: 0,0:53:46.96,0:53:50.69,Default,,0,0,0,,Tak apa, sayang.\NIbu akan menjagamu.
+Dialogue: 0,0:54:02.27,0:54:06.58,Default,,0,0,0,,Kurasa kita harus mempertimbangkan\Nuntuk mencarikan tempat buat dia.
+Dialogue: 0,0:54:10.48,0:54:12.55,Default,,0,0,0,,Meski untuk jangka pendek.
+Dialogue: 0,0:54:13.72,0:54:14.98,Default,,0,0,0,,Apa menurutmu aku\Ntak sanggup
+Dialogue: 0,0:54:15.12,0:54:17.72,Default,,0,0,0,,merawat putriku sendiri di rumah?
+Dialogue: 0,0:54:21.02,0:54:22.42,Default,,0,0,0,,Bukan itu maksudku.
+Dialogue: 0,0:54:22.56,0:54:23.79,Default,,0,0,0,,Lalu apa maksudmu?
+Dialogue: 0,0:54:24.16,0:54:27.16,Default,,0,0,0,,Maksudku, yang telah\Ndia lakukan pada dirinya sendiri,
+Dialogue: 0,0:54:27.53,0:54:28.66,Default,,0,0,0,,dan tingkahnya, itu...
+Dialogue: 0,0:54:28.80,0:54:31.07,Default,,0,0,0,,Terlalu berat untuk kau tanggung.
+Dialogue: 0,0:54:31.47,0:54:33.40,Default,,0,0,0,,Tapi dia tak akan pergi ke mana-mana.
+Dialogue: 0,0:54:33.94,0:54:37.04,Default,,0,0,0,,Dia sudah pergi cukup lama.\NDan dia aman di sini. Bersama kita.
+Dialogue: 0,0:54:38.11,0:54:39.24,Default,,0,0,0,,Lari.
+Dialogue: 0,0:54:39.44,0:54:41.21,Default,,0,0,0,,Lari, kau mau ke mana?
+Dialogue: 0,0:54:41.48,0:54:42.71,Default,,0,0,0,,Mengambil gunting.
+Dialogue: 0,0:54:42.84,0:54:43.65,Default,,0,0,0,,Lari.
+Dialogue: 0,0:54:43.78,0:54:45.21,Default,,0,0,0,,Kita jangan abaikan ini.
+Dialogue: 0,0:54:45.35,0:54:46.68,Default,,0,0,0,,Hentikan, Charlie.
+Dialogue: 0,0:54:46.82,0:54:48.95,Default,,0,0,0,,Dokter mengatakan dia\Nperlu bersama keluarganya.
+Dialogue: 0,0:54:49.08,0:54:51.25,Default,,0,0,0,,Apa kau tak ingin tahu\Napa yang terjadi padanya?
+Dialogue: 0,0:54:54.82,0:54:56.56,Default,,0,0,0,,Kuingin tahu mengapa\Nkau tak bisa mengurus
+Dialogue: 0,0:54:56.69,0:54:58.09,Default,,0,0,0,,putrimu sendiri di sini sekarang.
+Dialogue: 0,0:54:58.23,0:55:00.56,Default,,0,0,0,,Kenapa kau selalu terjebak\Ndi masa lalu?
+Dialogue: 0,0:55:00.70,0:55:01.86,Default,,0,0,0,,Aku tak terjebak masa lalu.
+Dialogue: 0,0:55:02.00,0:55:03.60,Default,,0,0,0,,Memang kau begitu.\N/ Aku sedang berusaha mencari jawaban.
+Dialogue: 0,0:55:03.73,0:55:05.27,Default,,0,0,0,,Dia ada di sana.\N/ Aku tahu.
+Dialogue: 0,0:55:05.40,0:55:06.60,Default,,0,0,0,,Kau pikir aku tidak lega\Nkarena putriku sudah pulang?
+Dialogue: 0,0:55:06.74,0:55:08.24,Default,,0,0,0,,Kau lega?\N/ Tentu saja.
+Dialogue: 0,0:55:08.37,0:55:10.17,Default,,0,0,0,,Tapi kita tak bisa menyembuhkannya\Njika tak tahu yang menimpa dia.
+Dialogue: 0,0:55:10.30,0:55:11.91,Default,,0,0,0,,Aku bisa menyembuhkannya.
+Dialogue: 0,0:55:12.27,0:55:13.37,Default,,0,0,0,,Aku bisa menyembuhkannya.
+Dialogue: 0,0:55:13.51,0:55:14.84,Default,,0,0,0,,Tidak, kau tak bisa.\N/ Aku bisa.
+Dialogue: 0,0:55:14.98,0:55:17.05,Default,,0,0,0,,Tidak, jika kau mengabaikan kenyataan.
+Dialogue: 0,0:55:18.85,0:55:20.82,Default,,0,0,0,,Tidak, tidak.
+Dialogue: 0,0:55:20.95,0:55:23.05,Default,,0,0,0,,Setidaknya bukan aku yang berusaha\Nmengubur rasa bersalahku sendiri
+Dialogue: 0,0:55:23.19,0:55:26.49,Default,,0,0,0,,dengan mencari berita apapun.
+Dialogue: 0,0:55:40.24,0:55:41.67,Default,,0,0,0,,Kau tahu tidak, Lari?
+Dialogue: 0,0:55:43.10,0:55:45.47,Default,,0,0,0,,Aku tahu kau menyalahkanku\Natas yang menimpanya.
+Dialogue: 0,0:55:46.94,0:55:49.01,Default,,0,0,0,,Kau bahkan tak perlu mengatakannya.
+Dialogue: 0,0:55:49.51,0:55:51.25,Default,,0,0,0,,Sudah kelihatan di dirimu.
+Dialogue: 0,0:55:51.51,0:55:53.48,Default,,0,0,0,,Setiap hari.
+Dialogue: 0,0:55:54.82,0:55:56.08,Default,,0,0,0,,Dan ya,
+Dialogue: 0,0:55:56.65,0:55:59.35,Default,,0,0,0,,akulah yang berada di sana\Npada hari dia menghilang.
+Dialogue: 0,0:56:00.62,0:56:03.36,Default,,0,0,0,,Tapi bagaimana dengan semua\Nhari-hari ketika kau ada?
+Dialogue: 0,0:56:04.56,0:56:06.03,Default,,0,0,0,,Kenapa kau tak pernah\Nmenyadari dia punya
+Dialogue: 0,0:56:06.16,0:56:08.46,Default,,0,0,0,,seorang teman rahasia di pinggir taman?
+Dialogue: 0,0:56:09.46,0:56:10.87,Default,,0,0,0,,Kau adalah ibunya.
+Dialogue: 0,0:56:17.94,0:56:19.04,Default,,0,0,0,,Maafkan aku.
+Dialogue: 0,0:56:20.51,0:56:22.14,Default,,0,0,0,,Maafkan aku, Lari.\NBisakah kita...
+Dialogue: 0,0:56:22.28,0:56:23.98,Default,,0,0,0,,Tolong tinggalkan kami.
+Dialogue: 0,0:56:44.37,0:56:45.70,Default,,0,0,0,,Katie?
+Dialogue: 0,0:56:47.10,0:56:48.54,Default,,0,0,0,,Katie, sayangku?
+Dialogue: 0,0:56:50.97,0:56:52.51,Default,,0,0,0,,Katakan sesuatu.
+Dialogue: 0,0:56:55.18,0:56:56.68,Default,,0,0,0,,Katie, katakan sesuatu.
+Dialogue: 0,0:56:58.15,0:57:00.68,Default,,0,0,0,,Katakan sesuatu. Kumohon.
+Dialogue: 0,0:57:01.58,0:57:04.45,Default,,0,0,0,,Katakan sesuatu. Katakan sesuatu!
+Dialogue: 0,0:59:08.98,0:59:10.08,Default,,0,0,0,,Jadi...
+Dialogue: 0,0:59:10.55,0:59:13.68,Default,,0,0,0,,siapa yang bisa jelaskan apa\Nistimewanya semua mayat ini?
+Dialogue: 0,0:59:16.02,0:59:18.32,Default,,0,0,0,,Mereka semua sudah mati.
+Dialogue: 0,0:59:18.45,0:59:19.89,Default,,0,0,0,,Kurasa kau pasti sedang mencari\Ninformasi tentang sekolah kedokteran
+Dialogue: 0,0:59:20.02,0:59:21.76,Default,,0,0,0,,yang berada di blok sebelah, temanku.
+Dialogue: 0,0:59:23.76,0:59:27.16,Default,,0,0,0,,Ini Arkeologi 101.
+Dialogue: 0,0:59:27.63,0:59:31.30,Default,,0,0,0,,Dan di sini, mayat\Nbukanlah sesuatu yang istimewa.
+Dialogue: 0,0:59:37.84,0:59:39.24,Default,,0,0,0,,Permisi, Tn. Bixler,
+Dialogue: 0,0:59:39.37,0:59:40.74,Default,,0,0,0,,bisa bicara sebentar?
+Dialogue: 0,0:59:40.88,0:59:42.84,Default,,0,0,0,,Yang benar "Profesor Bixler,"
+Dialogue: 0,0:59:42.98,0:59:44.91,Default,,0,0,0,,dan formulir cara pendaftaran
+Dialogue: 0,0:59:45.05,0:59:46.92,Default,,0,0,0,,tertempel di dinding\Nyang sama seperti biasanya.
+Dialogue: 0,0:59:47.05,0:59:52.09,Default,,0,0,0,,Tidak, tidak, tidak. aku bukan mahasiswa.\NAku seorang produser dari ABQ News.
+Dialogue: 0,0:59:52.62,0:59:55.39,Default,,0,0,0,,Begini, situasi pengembalian\Npajak tahun lalu itu sederhana...
+Dialogue: 0,0:59:55.52,0:59:57.23,Default,,0,0,0,,Profesor, aku tidak tertarik\Ndengan pajakmu.
+Dialogue: 0,0:59:57.36,1:00:00.13,Default,,0,0,0,,Aku ke sini untuk\Nbicara tentang hieroglif Mesir.
+Dialogue: 0,1:00:07.20,1:00:09.20,Default,,0,0,0,,Nah, ini bukan hieroglif.
+Dialogue: 0,1:00:09.97,1:00:12.17,Default,,0,0,0,,Ini terlihat seperti hieratik,
+Dialogue: 0,1:00:12.58,1:00:17.78,Default,,0,0,0,,tulisan kursif pertama Mesir kuno.\NJauh di masa lalu.
+Dialogue: 0,1:00:18.31,1:00:20.98,Default,,0,0,0,,3 ribu tahun sebelum Yesus muncul.
+Dialogue: 0,1:00:21.42,1:00:22.68,Default,,0,0,0,,Apa kau tahu\Nyang tertulis di situ?
+Dialogue: 0,1:00:28.89,1:00:30.13,Default,,0,0,0,,Kau dapat ini dari mana?
+Dialogue: 0,1:00:31.63,1:00:32.79,Default,,0,0,0,,Bisakah kau menerjemahkannya?
+Dialogue: 0,1:00:36.93,1:00:39.77,Default,,0,0,0,,Jenis berita apa yang sedang\Nkau kerjakan, Tn. Cannon?
+Dialogue: 0,1:00:41.37,1:00:42.80,Default,,0,0,0,,Yang bersifat pribadi.
+Dialogue: 0,1:00:43.43,1:00:48.43,Default,,0,0,0,,Daftar Baru langsung dapat {\c&H00ff80&}Bonus 50%.{\c}\NDengan DP 25k sampai 100k, bisa {\c&H00ff80&}klaim Bonus Harian 40k!{\c}\NKetik di GOOGLE : AYUKBET
+Dialogue: 0,1:01:26.65,1:01:28.28,Default,,0,0,0,,Ayah sangat menyesal.
+Dialogue: 0,1:01:34.92,1:01:36.72,Default,,0,0,0,,Ayah sangat menyesal.
+Dialogue: 0,1:02:55.45,1:02:57.45,Default,,0,0,0,,[GADIS PERINTIS KAIRO]
+Dialogue: 0,1:03:20.47,1:03:22.47,Default,,0,0,0,,[BUKU SAKU KODE MORSE INTERNASIONAL]
+Dialogue: 0,1:03:48.40,1:03:52.40,Default,,0,0,0,,"L A Y L A"
+Dialogue: 0,1:04:01.42,1:04:03.42,Default,,0,0,0,,[CARI KATIE CANNON]\N[DIMANA KATIE SEKARANG?]
+Dialogue: 0,1:04:03.44,1:04:06.34,Default,,0,0,0,,[ANAK PEREMPUAN DICULIK DI KAIRO\NMASIH HILANG]
+Dialogue: 0,1:04:06.37,1:04:08.37,Default,,0,0,0,,"Katie Cannon diculik di Kairo pada Sabtu..."
+Dialogue: 0,1:04:09.49,1:04:11.49,Default,,0,0,0,,[DIMANA KATIE SEKARANG?]
+Dialogue: 0,1:04:11.98,1:04:14.48,Default,,0,0,0,,Zaki.
+Dialogue: 0,1:04:14.62,1:04:17.95,Default,,0,0,0,,{\i1}Hei, ya. Ini, um...\NIni Charlie Cannon.{\i0}
+Dialogue: 0,1:04:19.85,1:04:21.16,Default,,0,0,0,,Bagaimana kondisi dia?
+Dialogue: 0,1:04:22.83,1:04:24.36,Default,,0,0,0,,Dia memberiku sebuah nama.
+Dialogue: 0,1:04:25.53,1:04:26.49,Default,,0,0,0,,Oke?
+Dialogue: 0,1:04:27.10,1:04:28.46,Default,,0,0,0,,{\i1}Bisa bantu menyelidikinya?{\i0}
+Dialogue: 0,1:04:29.06,1:04:30.37,Default,,0,0,0,,Nama apa?
+Dialogue: 0,1:04:30.63,1:04:32.60,Default,,0,0,0,,{\i1}Nama, uh... Layla.{\i0}
+Dialogue: 0,1:04:34.04,1:04:35.17,Default,,0,0,0,,Layla siapa?
+Dialogue: 0,1:04:36.40,1:04:38.97,Default,,0,0,0,,Aku tak tahu. Layla...\NLayla saja yang kutemukan.
+Dialogue: 0,1:04:43.51,1:04:45.98,Default,,0,0,0,,Ada banyak Layla di Mesir.
+Dialogue: 0,1:04:47.62,1:04:48.62,Default,,0,0,0,,{\i1}Aku tahu.{\i0}
+Dialogue: 0,1:04:55.89,1:04:57.09,Default,,0,0,0,,Charlie?
+Dialogue: 0,1:05:00.16,1:05:02.13,Default,,0,0,0,,Berapa banyak orang\Nyang telah kau temukan?
+Dialogue: 0,1:05:05.13,1:05:06.40,Default,,0,0,0,,57.
+Dialogue: 0,1:05:08.20,1:05:10.41,Default,,0,0,0,,Berapa banyak dari mereka yang masih hidup?
+Dialogue: 0,1:05:12.71,1:05:14.14,Default,,0,0,0,,Tidak banyak.
+Dialogue: 0,1:05:16.61,1:05:20.25,Default,,0,0,0,,Aku tak bisa hidup tanpa\Nmengetahui apa yang terjadi padanya.
+Dialogue: 0,1:05:24.25,1:05:25.75,Default,,0,0,0,,Apa kau punya teman
+Dialogue: 0,1:05:25.89,1:05:28.59,Default,,0,0,0,,{\i1}atau rekan kerja bernama Layla\Nsaat tinggal di Kairo?{\i0}
+Dialogue: 0,1:05:30.39,1:05:31.53,Default,,0,0,0,,Uh...
+Dialogue: 0,1:05:31.66,1:05:33.09,Default,,0,0,0,,Tidak. Sama sekali tidak.
+Dialogue: 0,1:05:33.60,1:05:35.96,Default,,0,0,0,,{\i1}Apa ada orang bernama itu\Ndalam hidupmu?{\i0}
+Dialogue: 0,1:05:36.10,1:05:37.63,Default,,0,0,0,,{\i1}Dulu atau sekarang.{\i0}
+Dialogue: 0,1:05:38.50,1:05:40.44,Default,,0,0,0,,Seingatku, tidak.
+Dialogue: 0,1:05:41.80,1:05:44.17,Default,,0,0,0,,Apa ada yang bernama Layla\Nyang menghubungi keluargamu
+Dialogue: 0,1:05:44.31,1:05:46.11,Default,,0,0,0,,{\i1}atau berusaha\Nberkomunikasi denganmu{\i0}
+Dialogue: 0,1:05:46.24,1:05:48.24,Default,,0,0,0,,{\i1}sejak Katie menghilang?{\i0}
+Dialogue: 0,1:06:15.47,1:06:17.77,Default,,0,0,0,,"Kepada keluarga Cannon, kami senantiasa\Nmendoakan Katie." _Norma Wallace, Columbus, Ohio
+Dialogue: 0,1:06:23.49,1:06:25.49,Default,,0,0,0,,"salam sayang, Mary, Dan & Sarah Forbes."
+Dialogue: 0,1:07:28.58,1:07:29.91,Default,,0,0,0,,Ibu?
+Dialogue: 0,1:07:31.11,1:07:37.55,Default,,0,0,0,,{\i1}♪ The other night, dear{\i0}\N{\i1}As I lay sleeping ♪{\i0}
+Dialogue: 0,1:07:39.49,1:07:45.69,Default,,0,0,0,,{\i1}♪ I dreamed I held you{\i0}\N{\i1}In my arms ♪{\i0}
+Dialogue: 0,1:07:47.13,1:07:50.53,Default,,0,0,0,,{\i1}♪ When I awoke, dear ♪{\i0}
+Dialogue: 0,1:07:51.40,1:07:54.70,Default,,0,0,0,,{\i1}♪ I was mistaken ♪{\i0}
+Dialogue: 0,1:07:56.47,1:08:01.04,Default,,0,0,0,,{\i1}♪ So, I bowed my head ♪{\i0}
+Dialogue: 0,1:08:01.18,1:08:04.48,Default,,0,0,0,,Katie? Kaukah yang bernyanyi?\N/ {\i1}♪ And I cried ♪{\i0}
+Dialogue: 0,1:08:06.78,1:08:09.79,Default,,0,0,0,,Ya. Sekarang aku juga bisa bicara.
+Dialogue: 0,1:08:10.08,1:08:11.92,Default,,0,0,0,,Astaga! Aku akan panggil Ibu.
+Dialogue: 0,1:08:12.05,1:08:13.25,Default,,0,0,0,,Jangan, Maudie.
+Dialogue: 0,1:08:14.06,1:08:16.09,Default,,0,0,0,,Mari kita buat ini jadi kejutan.
+Dialogue: 0,1:08:16.36,1:08:19.26,Default,,0,0,0,,Kuingin berlatih\Nbicara denganmu dulu.
+Dialogue: 0,1:08:21.70,1:08:24.50,Default,,0,0,0,,Kau adalah adik kesayanganku\Ndi keluarga ini.
+Dialogue: 0,1:08:25.03,1:08:27.13,Default,,0,0,0,,Tapi kau sendiri tidak mengenalku.
+Dialogue: 0,1:08:27.77,1:08:29.30,Default,,0,0,0,,Betul.
+Dialogue: 0,1:08:29.97,1:08:34.74,Default,,0,0,0,,Itulah mengapa kuingin\Nmengetahui semua yang beda tentang dirimu.
+Dialogue: 0,1:08:35.61,1:08:36.78,Default,,0,0,0,,Seperti apa?
+Dialogue: 0,1:08:38.88,1:08:41.32,Default,,0,0,0,,Seperti merasakan jari-jarimu.
+Dialogue: 0,1:09:30.44,1:09:33.24,Default,,0,0,0,,"Keluarga Cannon\NAlbuquerque, New Mexico"
+Dialogue: 0,1:09:39.46,1:09:42.36,Default,,0,0,0,,"Kau lebih manis dari..."
+Dialogue: 0,1:09:46.68,1:09:48.55,Default,,0,0,0,,{\i1}Aku sangat sedih.{\i0}
+Dialogue: 0,1:09:48.68,1:09:51.19,Default,,0,0,0,,{\i1}Aku tak ingin\Nitu terjadi pada Katie.{\i0}
+Dialogue: 0,1:09:51.32,1:09:53.45,Default,,0,0,0,,{\i1}Dia sahabat terbaikku.{\i0}
+Dialogue: 0,1:09:55.48,1:09:57.48,Default,,0,0,0,,"Laila Khalil"
+Dialogue: 0,1:09:59.13,1:10:00.46,Default,,0,0,0,,{\i1}Layla.{\i0}
+Dialogue: 0,1:10:15.49,1:10:19.49,Default,,0,0,0,,Itu cuma kantor pos di peta sekitar 80 km.\NItu tengah-tengah gurun.
+Dialogue: 0,1:10:19.51,1:10:21.51,Default,,0,0,0,,Apa kota terdekat?
+Dialogue: 0,1:10:21.53,1:10:23.53,Default,,0,0,0,,Aswan.
+Dialogue: 0,1:10:24.46,1:10:26.46,Default,,0,0,0,,Kota itu dekat dengan pesawat yang jatuh.
+Dialogue: 0,1:10:26.48,1:10:29.48,Default,,0,0,0,,Periksa area itu.
+Dialogue: 0,1:10:31.41,1:10:34.41,Default,,0,0,0,,Apa kau pernah keluar?
+Dialogue: 0,1:10:34.43,1:10:37.43,Default,,0,0,0,,Keluar ke mana?\N/ Tahulah, bersama teman-teman?
+Dialogue: 0,1:10:38.45,1:10:40.45,Default,,0,0,0,,Apa yang hijau itu?
+Dialogue: 0,1:10:40.48,1:10:43.48,Default,,0,0,0,,Itu oasis.
+Dialogue: 0,1:10:44.40,1:10:46.40,Default,,0,0,0,,Bukan, itu perkebunan.
+Dialogue: 0,1:10:48.43,1:10:50.43,Default,,0,0,0,,Perkebunan jenis apa?
+Dialogue: 0,1:10:50.45,1:10:53.45,Default,,0,0,0,,Sebentar, kuperiksa dulu\Napakah itu sudah terdaftar.
+Dialogue: 0,1:10:57.47,1:10:59.47,Default,,0,0,0,,Itu perkebunan nektarin.
+Dialogue: 0,1:11:01.40,1:11:04.40,Default,,0,0,0,,Cukup jarang ada tempat begitu\Ndi tengah-tengah gurun.
+Dialogue: 0,1:11:26.21,1:11:29.99,Default,,0,0,0,,Seperti yang kuduga, susunan naskah itu\Nmemang tulisan hieratik.
+Dialogue: 0,1:11:30.38,1:11:34.19,Default,,0,0,0,,Ditulis dengan tinta yang\Ntampak seperti semacam ikatan upacara.
+Dialogue: 0,1:11:34.56,1:11:37.46,Default,,0,0,0,,Tujuh bagian berbeda ini
+Dialogue: 0,1:11:37.69,1:11:40.49,Default,,0,0,0,,merupakan fragmen dari narasi\Nyang jauh lebih besar dan lebih kohesif,
+Dialogue: 0,1:11:40.63,1:11:42.36,Default,,0,0,0,,yang awalnya tak bisa kupahami.
+Dialogue: 0,1:11:42.50,1:11:45.30,Default,,0,0,0,,Baru setelah kumelihat satu kata ini...
+Dialogue: 0,1:11:45.63,1:11:48.84,Default,,0,0,0,,diulang-ulang terus.
+Dialogue: 0,1:11:50.61,1:11:52.21,Default,,0,0,0,,"Nasmaranian."
+Dialogue: 0,1:11:52.54,1:11:54.24,Default,,0,0,0,,Apa itu seorang Nasmaranian?
+Dialogue: 0,1:11:54.78,1:11:57.75,Default,,0,0,0,,Bukan "seorang",\Nmelainkan "sang."
+Dialogue: 0,1:11:59.48,1:12:01.75,Default,,0,0,0,,Rekaman ini berasal dari\Nsebuah kuliah internasional
+Dialogue: 0,1:12:01.88,1:12:03.82,Default,,0,0,0,,tentang demonologi Mesir kuno
+Dialogue: 0,1:12:04.12,1:12:06.92,Default,,0,0,0,,dari Universitas Al-Azhar di Kairo.
+Dialogue: 0,1:12:10.45,1:12:12.45,Default,,0,0,0,,UNIVERSITAS AL-AZHAR (1923)
+Dialogue: 0,1:12:13.70,1:12:15.56,Default,,0,0,0,,{\i1}Prasasti kuno{\i0}
+Dialogue: 0,1:12:15.70,1:12:17.43,Default,,0,0,0,,{\i1}menceritakan tentang kekuatan gelap\Nyang ditakuti masyarakat{\i0}
+Dialogue: 0,1:12:17.57,1:12:20.50,Default,,0,0,0,,{\i1}bahkan sebelum mereka memiliki kata-kata\Nuntuk menggambarkan teror semacam itu.{\i0}
+Dialogue: 0,1:12:22.17,1:12:25.77,Default,,0,0,0,,{\i1}Sang Nasmaranian itu bergerak seperti\Nbayangan di antara orang-orang yang hidup,{\i0}
+Dialogue: 0,1:12:25.91,1:12:28.51,Default,,0,0,0,,{\i1}senang sekali memecah belah\Nayah dan anak,{\i0}
+Dialogue: 0,1:12:28.64,1:12:31.75,Default,,0,0,0,,{\i1}dan membiarkan para ibu\Nmenguburkan anak-anak mereka.{\i0}
+Dialogue: 0,1:12:33.25,1:12:36.45,Default,,0,0,0,,{\i1}Penyakit itu dikenal sebagai\Npenghancur keluarga.{\i0}
+Dialogue: 0,1:12:37.32,1:12:39.02,Default,,0,0,0,,{\i1}Seperti penyakit jiwa,{\i0}
+Dialogue: 0,1:12:39.15,1:12:42.09,Default,,0,0,0,,{\i1}itu menyebar dari\Nsatu orang ke orang lain.{\i0}
+Dialogue: 0,1:12:42.99,1:12:46.56,Default,,0,0,0,,{\i1}Bisikan di telinga,\Nsecercah kecurigaan,{\i0}
+Dialogue: 0,1:12:47.30,1:12:51.00,Default,,0,0,0,,{\i1}menciptakan kekejaman di tempat\Nyang dulunya bersemayam cinta.{\i0}
+Dialogue: 0,1:12:52.00,1:12:54.77,Default,,0,0,0,,{\i1}Seluruh komunitas hancur berantakan{\i0}
+Dialogue: 0,1:12:54.97,1:12:58.57,Default,,0,0,0,,{\i1}karena makhluk buas ini menyebarkan\Npenyakit busuk seperti kanker di antara mereka.{\i0}
+Dialogue: 0,1:12:59.47,1:13:01.61,Default,,0,0,0,,{\i1}Itu adalah iblis pada zamannya.{\i0}
+Dialogue: 0,1:13:03.21,1:13:07.52,Default,,0,0,0,,{\i1}Namun kemudian, sekitar tahun\N2000 SM, pengaruhnya memudar.{\i0}
+Dialogue: 0,1:13:08.38,1:13:10.12,Default,,0,0,0,,{\i1}Tidak ada tulisan lagi.{\i0}
+Dialogue: 0,1:13:10.25,1:13:11.99,Default,,0,0,0,,{\i1}Tidak ada cerita lagi,{\i0}
+Dialogue: 0,1:13:12.12,1:13:13.79,Default,,0,0,0,,{\i1}kecuali satu rumor{\i0}
+Dialogue: 0,1:13:16.32,1:13:17.89,Default,,0,0,0,,{\i1}bahwa sang Nasmaranian telah{\i0}
+Dialogue: 0,1:13:18.03,1:13:21.03,Default,,0,0,0,,{\i1}terperangkap melalui ritual kuno.{\i0}
+Dialogue: 0,1:13:23.00,1:13:26.00,Default,,0,0,0,,{\i1}Atau mungkin saja\Nitu menghilang begitu saja.{\i0}
+Dialogue: 0,1:13:30.17,1:13:31.71,Default,,0,0,0,,Ikatan-ikatan ini,
+Dialogue: 0,1:13:31.84,1:13:35.91,Default,,0,0,0,,dari manapun kau mendapatkannya,\Npastikan isinya mengandung mantra perlindungan.
+Dialogue: 0,1:13:36.54,1:13:39.51,Default,,0,0,0,,Mantra untuk mengusir\Niblis yang telah lama hilang ini.
+Dialogue: 0,1:14:13.38,1:14:16.62,Default,,0,0,0,,Maud, belum waktunya\Nmembuat kerajinan tangan.
+Dialogue: 0,1:14:17.22,1:14:18.55,Default,,0,0,0,,Bu Mills?
+Dialogue: 0,1:14:19.12,1:14:20.22,Default,,0,0,0,,Ya, Maud?
+Dialogue: 0,1:14:21.22,1:14:22.62,Default,,0,0,0,,Kau bukan katak.
+Dialogue: 0,1:14:22.76,1:14:25.69,Default,,0,0,0,,Benar sekali. Aku bukan katak.
+Dialogue: 0,1:14:26.53,1:14:29.06,Default,,0,0,0,,Kau bajingan bermuka tikus (licik).
+Dialogue: 0,1:14:36.49,1:14:48.39,Default,,0,0,0,,Seminggu {\c&H00ff80&}Full HADIR akan di berikan 75k{\c}\Nsecara cuma-cuma | Ada juga {\c&H00ff80&}BONUS MALMING 50k{\c}\NKetik di GOOGLE : {\c&H8080ff&}AYUKBET
+Dialogue: 0,1:15:02.41,1:15:06.31,Default,,0,0,0,,"Jangan banjiri lembah kami"
+Dialogue: 0,1:15:34.44,1:15:36.44,Default,,0,0,0,,Polisi, ada orang disini?
+Dialogue: 0,1:19:59.46,1:20:01.46,Default,,0,0,0,,Polisi.
+Dialogue: 0,1:20:02.48,1:20:04.48,Default,,0,0,0,,Jangan bergerak.
+Dialogue: 0,1:20:12.41,1:20:14.41,Default,,0,0,0,,Serahkan dirimu.
+Dialogue: 0,1:20:21.43,1:20:23.43,Default,,0,0,0,,Menyerahlah, tunjukkan dirimu!
+Dialogue: 0,1:20:38.46,1:20:40.46,Default,,0,0,0,,Apa yang kau perbuat terhadap Katie?
+Dialogue: 0,1:20:41.48,1:20:43.48,Default,,0,0,0,,Mengapa kau culik dia?
+Dialogue: 0,1:20:55.40,1:20:57.40,Default,,0,0,0,,Berhenti!
+Dialogue: 0,1:21:01.43,1:21:03.43,Default,,0,0,0,,Berhenti!
+Dialogue: 0,1:21:23.45,1:21:25.45,Default,,0,0,0,,Angkat tangan!
+Dialogue: 0,1:21:25.48,1:21:27.48,Default,,0,0,0,,Kubilang, angkat tangan!
+Dialogue: 0,1:21:32.40,1:21:35.40,Default,,0,0,0,,Selanjutkan akan kutembakkan ke kamu\Nkalau tidak angkat tangan.
+Dialogue: 0,1:21:50.42,1:21:52.42,Default,,0,0,0,,Letakkan itu.
+Dialogue: 0,1:22:14.45,1:22:17.35,Default,,0,0,0,,Apa kau Layla Khalil?
+Dialogue: 0,1:22:42.47,1:22:44.47,Default,,0,0,0,,"KATIE"
+Dialogue: 0,1:22:50.40,1:22:56.40,Default,,0,0,0,,Tuhan Maha Kuasa, aku menyembah\Ndan memohon keajaiban.
+Dialogue: 0,1:22:56.42,1:23:01.42,Default,,0,0,0,,Karena hanya Engkau Maha Ajaib,\Nbisa merubah mustahil menjadi kenyataan.
+Dialogue: 0,1:23:54.73,1:23:57.16,Default,,0,0,0,,{\i1}Bajingan bermuka tikus.\NBajingan bermuka tikus.{\i0}
+Dialogue: 0,1:23:57.30,1:24:01.00,Default,,0,0,0,,Bajingan bermuka tikus.\NBajingan bermuka tikus.
+Dialogue: 0,1:24:01.14,1:24:03.61,Default,,0,0,0,,Bajingan bermuka tikus.\NBajingan bermuka tikus.
+Dialogue: 0,1:24:04.87,1:24:06.37,Default,,0,0,0,,Persetan denganmu.
+Dialogue: 0,1:24:08.01,1:24:10.18,Default,,0,0,0,,{\i1}♪ I just need someplace{\i0}\N{\i1}Where I can... ♪{\i0}
+Dialogue: 0,1:24:10.31,1:24:11.45,Default,,0,0,0,,Kami tak akan memberitahu ibumu
+Dialogue: 0,1:24:11.58,1:24:12.95,Default,,0,0,0,,tentang kejadian di sekolah hari ini.
+Dialogue: 0,1:24:13.88,1:24:15.32,Default,,0,0,0,,♪ {\i1}Hey, mister{\i0}\N{\i1}Can you tell me... ♪{\i0}
+Dialogue: 0,1:24:15.45,1:24:16.85,Default,,0,0,0,,Dia sedang banyak pikiran.
+Dialogue: 0,1:24:16.99,1:24:19.09,Default,,0,0,0,,♪ {\i1}Where a man{\i0}\N{\i1}Might find a bed? ♪{\i0}
+Dialogue: 0,1:24:25.41,1:24:30.41,Default,,0,0,0,,Kuminta Kau sembuhkan tubuh cucuku\Ndengan sentuhanMu.
+Dialogue: 0,1:24:30.43,1:24:32.43,Default,,0,0,0,,"Kau lebih manis dari..."
+Dialogue: 0,1:24:32.68,1:24:34.55,Default,,0,0,0,,{\i1}"Aku sangat sedih."{\i0}
+Dialogue: 0,1:24:34.68,1:24:36.19,Default,,0,0,0,,{\i1}"Aku tak ingin\Nitu terjadi pada Katie."{\i0}
+Dialogue: 0,1:24:36.19,1:24:37.62,Default,,0,0,0,,{\i1}"Dia sahabat terbaikku."{\i0} _Layla Khalil.
+Dialogue: 0,1:24:42.45,1:24:45.45,Default,,0,0,0,,Bantu dia mengatasi rasa sakitnya.
+Dialogue: 0,1:24:45.47,1:24:48.37,Default,,0,0,0,,Sembuhkan penyakitnya dan pulihkan\Nkesehatannya sepenuhnya.
+Dialogue: 0,1:24:56.49,1:24:58.16,Default,,0,0,0,,Kubisa membuat\Njantungmu berhenti berdetak.
+Dialogue: 0,1:25:08.20,1:25:09.57,Default,,0,0,0,,Larissa!
+Dialogue: 0,1:25:10.67,1:25:12.01,Default,,0,0,0,,Larissa!
+Dialogue: 0,1:25:12.41,1:25:14.41,Default,,0,0,0,,Aku di belakangmu.
+Dialogue: 0,1:25:43.71,1:25:45.71,Default,,0,0,0,,♪ {\i1}I said, "Hey, Carmen ♪{\i0}
+Dialogue: 0,1:25:45.84,1:25:48.78,Default,,0,0,0,,{\i1}♪ Come on{\i0}\N{\i1}Let's go downtown" ♪{\i0}
+Dialogue: 0,1:25:49.01,1:25:50.55,Default,,0,0,0,,Serigala liar sudah pergi.
+Dialogue: 0,1:26:45.17,1:26:48.74,Default,,0,0,0,,Jangan khawatir, Nenek.\NMati itu menyenangkan.
+Dialogue: 0,1:26:55.08,1:26:57.65,Default,,0,0,0,,Astaga! Ya Tuhan!
+Dialogue: 0,1:27:16.00,1:27:19.80,Default,,0,0,0,,♪ {\i1}Crazy Chester followed me{\i0}\N{\i1}And he caught me in the fog{\i0} ♪
+Dialogue: 0,1:27:21.44,1:27:25.27,Default,,0,0,0,,♪ {\i1}He said, "I will fix{\i0}\N{\i1}Your rack if you..."{\i0} ♪
+Dialogue: 0,1:27:29.88,1:27:30.75,Default,,0,0,0,,Ibu!
+Dialogue: 0,1:27:40.42,1:27:42.56,Default,,0,0,0,,♪ {\i1}Take a load off, Fanny ♪{\i0}
+Dialogue: 0,1:27:43.56,1:27:45.63,Default,,0,0,0,,♪ {\i1}Take a load for free ♪{\i0}
+Dialogue: 0,1:27:46.86,1:27:49.56,Default,,0,0,0,,♪ {\i1}Take a load off, Fanny ♪{\i0}
+Dialogue: 0,1:27:50.70,1:27:52.33,Default,,0,0,0,,♪ {\i1}And... ♪{\i0}
+Dialogue: 0,1:28:42.46,1:28:47.46,Default,,0,0,0,,{\i1}Anak yang polos tubuh terbaik\Nyang paling lama bertahan,{\i0}
+Dialogue: 0,1:28:47.48,1:28:50.48,Default,,0,0,0,,{\i1}tapi manusia hidup manapun bisa juga.{\i0}
+Dialogue: 0,1:29:00.41,1:29:02.41,Default,,0,0,0,,{\i1}Mari kita mulai.{\i0}
+Dialogue: 0,1:29:35.43,1:29:38.43,Default,,0,0,0,,Apa yang terjadi pada kaset itu?
+Dialogue: 0,1:29:39.45,1:29:41.45,Default,,0,0,0,,Bicaralah!
+Dialogue: 0,1:29:58.48,1:30:00.48,Default,,0,0,0,,Siapa yang berbuat ini padamu?
+Dialogue: 0,1:30:03.40,1:30:06.40,Default,,0,0,0,,Wanita yang di kaset itu?
+Dialogue: 0,1:30:09.43,1:30:11.43,Default,,0,0,0,,Ibumu?
+Dialogue: 0,1:30:30.45,1:30:37.45,Default,,0,0,0,,Aku pernah berusaha mengatakan\Nfakta sebenarnya,
+Dialogue: 0,1:30:37.47,1:30:40.47,Default,,0,0,0,,sehingga dia menghukumku.
+Dialogue: 0,1:30:44.40,1:30:46.40,Default,,0,0,0,,Apa fakta sebenarnya?
+Dialogue: 0,1:30:50.42,1:30:56.42,Default,,0,0,0,,Katie semestinya tidak berada di luar peti.
+Dialogue: 0,1:30:57.45,1:31:00.45,Default,,0,0,0,,Lembah itu sebentar lagi akan banjir.
+Dialogue: 0,1:31:00.47,1:31:04.47,Default,,0,0,0,,Abang-abangku terpaksa memindahkannya,
+Dialogue: 0,1:31:05.49,1:31:09.49,Default,,0,0,0,,tapi itu tak pernah dipindahkan sebelumnya.
+Dialogue: 0,1:31:15.42,1:31:17.42,Default,,0,0,0,,Apa itu?
+Dialogue: 0,1:32:00.75,1:32:02.48,Default,,0,0,0,,{\i1}Hei, kau terhubung\Ndengan Charlie Cannon.{\i0}
+Dialogue: 0,1:32:02.62,1:32:03.79,Default,,0,0,0,,{\i1}Aku tak bisa\Nterima telepon sekarang.{\i0}
+Dialogue: 0,1:32:03.92,1:32:05.49,Default,,0,0,0,,{\i1}Silakan tinggalkan pesan.{\i0}
+Dialogue: 0,1:32:05.62,1:32:07.29,Default,,0,0,0,,Charlie, ini Zaki.
+Dialogue: 0,1:32:07.42,1:32:09.89,Default,,0,0,0,,Aku, eh...\Naku harus menemuimu.
+Dialogue: 0,1:32:10.03,1:32:12.76,Default,,0,0,0,,Ada sesuatu yang\Nperlu kutunjukkan padamu.
+Dialogue: 0,1:32:20.49,1:32:23.49,Default,,0,0,0,,Dia nampak setidaknya 10 tahun lebih muda.
+Dialogue: 0,1:32:23.51,1:32:26.41,Default,,0,0,0,,Cairan pembalseman itu\Nseperti Botox untuk mayat.
+Dialogue: 0,1:32:26.43,1:32:32.43,Default,,0,0,0,,Kudengar dia terpeleset dan jatuh\Nsaat sedang membersihkan tirai gorden.
+Dialogue: 0,1:32:32.46,1:32:36.46,Default,,0,0,0,,Kudengar itu sama sekali bukan kecelakaan.
+Dialogue: 0,1:32:40.48,1:32:43.48,Default,,0,0,0,,Tapi warna lipstiknya sesuai dengannya, ya?
+Dialogue: 0,1:33:26.41,1:33:28.41,Default,,0,0,0,,"KATIE"
+Dialogue: 0,1:33:34.34,1:33:36.08,Default,,0,0,0,,Ayah, Ibu mencarimu.
+Dialogue: 0,1:33:39.21,1:33:40.12,Default,,0,0,0,,Ayah!
+Dialogue: 0,1:33:41.62,1:33:42.82,Default,,0,0,0,,Dia membutuhkanmu.
+Dialogue: 0,1:33:55.46,1:33:56.36,Default,,0,0,0,,Hey.
+Dialogue: 0,1:33:58.10,1:33:59.87,Default,,0,0,0,,Dia tenang sekarang.
+Dialogue: 0,1:34:00.77,1:34:02.67,Default,,0,0,0,,Seb ada di luar pintu.
+Dialogue: 0,1:34:03.34,1:34:05.91,Default,,0,0,0,,Aku akan kembali ke atas sebentar lagi\Ndan menengok keadaannya.
+Dialogue: 0,1:34:11.68,1:34:13.95,Default,,0,0,0,,Aku tak ingin dia berada di sini lagi.
+Dialogue: 0,1:34:15.82,1:34:17.55,Default,,0,0,0,,Aku tahu. Aku tahu.
+Dialogue: 0,1:34:18.05,1:34:19.89,Default,,0,0,0,,Ini terasa tidak nyata.
+Dialogue: 0,1:34:21.29,1:34:24.19,Default,,0,0,0,,Tapi kita harus melewati ini, oke?
+Dialogue: 0,1:34:25.99,1:34:28.03,Default,,0,0,0,,Inilah yang diinginkan ibumu.
+Dialogue: 0,1:34:32.54,1:34:34.80,Default,,0,0,0,,Aku tidak sedang membicarakan ibuku.
+Dialogue: 0,1:35:08.67,1:35:10.77,Default,,0,0,0,,Jangan pergi, adikku sayang.
+Dialogue: 0,1:35:13.71,1:35:17.98,Default,,0,0,0,,Tolong biarkan aku keluar agar kubisa ikutan\Npesta besar dan meriah di bawah.
+Dialogue: 0,1:35:19.25,1:35:21.38,Default,,0,0,0,,Mengapa mereka menyembunyikanku?
+Dialogue: 0,1:35:22.28,1:35:25.19,Default,,0,0,0,,Aku sangat rindu menjadi\Nbagian keluarga, Seb.
+Dialogue: 0,1:35:33.76,1:35:34.90,Default,,0,0,0,,{\i1}Apa kau ingat hari itu?{\i0}
+Dialogue: 0,1:35:35.03,1:35:36.06,Default,,0,0,0,,{\i1}Kau melempar Veronica dari atap{\i0}
+Dialogue: 0,1:35:36.20,1:35:37.77,Default,,0,0,0,,{\i1}untuk menguji\Napakah dia bisa terbang?{\i0}
+Dialogue: 0,1:35:39.33,1:35:40.74,Default,,0,0,0,,{\i1}Kaulah yang memberiku ide{\i0}
+Dialogue: 0,1:35:40.87,1:35:42.77,Default,,0,0,0,,{\i1}untuk melihat apakah\NNenek bisa terbang.{\i0}
+Dialogue: 0,1:35:42.97,1:35:44.11,Default,,0,0,0,,{\i1}Ini semua salahmu\Ndia membusuk{\i0}
+Dialogue: 0,1:35:44.24,1:35:45.91,Default,,0,0,0,,{\i1}di dalam peti mati di bawah sana.{\i0}
+Dialogue: 0,1:35:48.94,1:35:50.28,Default,,0,0,0,,Hentikan! Hentikan!
+Dialogue: 0,1:36:53.44,1:36:54.44,Default,,0,0,0,,Sayang?
+Dialogue: 0,1:36:55.08,1:36:56.18,Default,,0,0,0,,Ada apa?
+Dialogue: 0,1:37:03.12,1:37:03.99,Default,,0,0,0,,Maud?
+Dialogue: 0,1:37:15.66,1:37:16.53,Default,,0,0,0,,Maud!
+Dialogue: 0,1:37:19.64,1:37:21.24,Default,,0,0,0,,Pegangi dia!
+Dialogue: 0,1:38:04.46,1:38:08.46,Default,,0,0,0,,Hanya di {\c&H8080ff&}AYUKBET{\c}, Menang dapat {\c&H00ff80&}REBATE 1,3%{\c}\Ndan kalah juga dapat {\c&H00ff80&}CASHBACK 5%{\c}\NCari kami di GOOGLE : AYUKBET
+Dialogue: 0,1:38:59.93,1:39:01.24,Default,,0,0,0,,Kita mau ke mana?
+Dialogue: 0,1:39:02.27,1:39:04.84,Default,,0,0,0,,Kita akan pergi ke tempat yang aman.
+Dialogue: 0,1:39:04.97,1:39:06.41,Default,,0,0,0,,Apa Katie akan ikut?
+Dialogue: 0,1:39:07.21,1:39:09.28,Default,,0,0,0,,Tidak. Tidak sekarang.
+Dialogue: 0,1:39:11.21,1:39:12.55,Default,,0,0,0,,Mengapa ibu sangat jahat?
+Dialogue: 0,1:39:12.68,1:39:15.98,Default,,0,0,0,,Karena kita sedang buru-buru, Maud. Paham?
+Dialogue: 0,1:39:17.25,1:39:19.92,Default,,0,0,0,,Tidak. Sebagai ibuku.
+Dialogue: 0,1:39:46.45,1:39:48.05,Default,,0,0,0,,"KATIE"
+Dialogue: 0,1:39:48.25,1:39:51.32,Default,,0,0,0,,Andai aku tak perlu menunjukkan\Nisi kaset ini padamu.
+Dialogue: 0,1:39:52.92,1:39:56.66,Default,,0,0,0,,Tapi, sangat penting kau tahu\Nyang terjadi terhadap Katie.
+Dialogue: 0,1:40:08.37,1:40:11.41,Default,,0,0,0,,Inilah wanita yang menculik putrimu.
+Dialogue: 0,1:40:17.45,1:40:22.15,Default,,0,0,0,,"Tanda-tanda buruk mulai terlihat kembali."
+Dialogue: 0,1:40:23.15,1:40:25.05,Default,,0,0,0,,"Memberi peringatan pada kita\Nbila waktunya telah tiba
+Dialogue: 0,1:40:25.19,1:40:27.79,Default,,0,0,0,,untuk kembali berkomitmen\Npada upaya membatasi
+Dialogue: 0,1:40:27.99,1:40:31.06,Default,,0,0,0,,rahasia keluarga kuno kita."
+Dialogue: 0,1:40:32.76,1:40:34.63,Default,,0,0,0,,"Ini akan menjadi...
+Dialogue: 0,1:40:37.20,1:40:40.67,Default,,0,0,0,,...ritual mumifikasi ke-82."
+Dialogue: 0,1:40:41.17,1:40:43.34,Default,,0,0,0,,"Dan sebagai anak sulung,
+Dialogue: 0,1:40:43.47,1:40:49.51,Default,,0,0,0,,aku merasa terhormat bisa mengemban\Ntanggung jawab besar ini dalam memastikan
+Dialogue: 0,1:40:49.65,1:40:53.11,Default,,0,0,0,,bila keluarga kita\Nakan tetap terlindungi
+Dialogue: 0,1:40:53.25,1:40:56.69,Default,,0,0,0,,dari jangkauan jahat sang Nasmaranian."
+Dialogue: 0,1:40:58.85,1:41:03.56,Default,,0,0,0,,"Aku membuat wasiat ini agar\Npuluhan tahun mendatang,
+Dialogue: 0,1:41:05.43,1:41:07.83,Default,,0,0,0,,anak-anakmu akan tahu\Nyang harus mereka lakukan
+Dialogue: 0,1:41:07.96,1:41:11.53,Default,,0,0,0,,ketika tiba saatnya\Nmereka memindahkan iblis ini...
+Dialogue: 0,1:41:13.94,1:41:15.84,Default,,0,0,0,,dari wadah yang sudah tidak terpakai...
+Dialogue: 0,1:41:18.07,1:41:21.74,Default,,0,0,0,,...ke inang yang baru disiapkan."
+Dialogue: 0,1:41:30.59,1:41:32.72,Default,,0,0,0,,"Anak yang polos adalah yang terbaik."
+Dialogue: 0,1:41:33.52,1:41:36.29,Default,,0,0,0,,"Tubuhnya bertahan paling lama.
+Dialogue: 0,1:41:37.26,1:41:39.26,Default,,0,0,0,,Namun, manusia hidup\Nmanapun bisa digunakan."
+Dialogue: 0,1:41:56.21,1:41:58.75,Default,,0,0,0,,"Mari kita mulai."
+Dialogue: 0,1:42:20.43,1:42:23.27,Default,,0,0,0,,{\i1}Kumohon. Aku ingin pulang.{\i0}
+Dialogue: 0,1:42:30.78,1:42:33.58,Default,,0,0,0,,{\i1}Semua ini akan segera berakhir, Katie.{\i0}
+Dialogue: 0,1:42:34.72,1:42:36.18,Default,,0,0,0,,{\i1}Aku janji.{\i0}
+Dialogue: 0,1:42:37.62,1:42:39.89,Default,,0,0,0,,{\i1}Aku ingin ibu dan ayahku.{\i0}
+Dialogue: 0,1:42:56.00,1:42:57.94,Default,,0,0,0,,{\i1}Tidak, tidak!{\i0}
+Dialogue: 0,1:42:59.17,1:43:00.37,Default,,0,0,0,,{\i1}Tidak, kumohon!{\i0}
+Dialogue: 0,1:43:02.48,1:43:05.18,Default,,0,0,0,,Hey. Aku tidak...\Naku tidak mau tahu.
+Dialogue: 0,1:43:05.31,1:43:06.31,Default,,0,0,0,,Aku tidak mau tahu.
+Dialogue: 0,1:43:06.45,1:43:08.95,Default,,0,0,0,,Kita harus tahu.\NKita harus tahu.
+Dialogue: 0,1:43:13.79,1:43:18.19,Default,,0,0,0,,{\i1}Kumohon! Jangan!\NLepaskan aku! Hentikan!{\i0}
+Dialogue: 0,1:43:21.76,1:43:24.37,Default,,0,0,0,,{\i1}Tidak! Hentikan!{\i0}
+Dialogue: 0,1:43:26.27,1:43:27.80,Default,,0,0,0,,Adik sayang?
+Dialogue: 0,1:43:29.00,1:43:30.27,Default,,0,0,0,,Ya?
+Dialogue: 0,1:43:31.81,1:43:34.34,Default,,0,0,0,,Mau bantu aku melepas kulit?
+Dialogue: 0,1:43:37.05,1:43:38.28,Default,,0,0,0,,Ya.
+Dialogue: 0,1:43:39.51,1:43:41.75,Default,,0,0,0,,{\i1}Kumohon lepaskan aku!{\i0}
+Dialogue: 0,1:43:42.32,1:43:43.69,Default,,0,0,0,,{\i1}Tidak!{\i0}
+Dialogue: 0,1:44:13.72,1:44:14.48,Default,,0,0,0,,{\i1}Tidak!{\i0}
+Dialogue: 0,1:44:21.02,1:44:22.42,Default,,0,0,0,,{\i1}Tidak!{\i0}
+Dialogue: 0,1:44:23.26,1:44:24.79,Default,,0,0,0,,{\i1}Lepaskan aku!{\i0}
+Dialogue: 0,1:47:26.34,1:47:28.14,Default,,0,0,0,,Sesuatu yang mereka masukkan\Nke dalam tubuhnya
+Dialogue: 0,1:47:29.54,1:47:31.68,Default,,0,0,0,,seharusnya tetap terkubur dan terikat.
+Dialogue: 0,1:47:38.99,1:47:39.55,Default,,0,0,0,,Charlie.
+Dialogue: 0,1:47:54.14,1:47:57.61,Default,,0,0,0,,Katie. Katie,\NIbu datang. Ibu datang.
+Dialogue: 0,1:47:59.91,1:48:02.48,Default,,0,0,0,,Tunggu. Tunggu, Katie.\NTunggu, sayang.
+Dialogue: 0,1:48:02.61,1:48:04.01,Default,,0,0,0,,Charlie!
+Dialogue: 0,1:48:26.20,1:48:27.24,Default,,0,0,0,,Katie.
+Dialogue: 0,1:48:42.48,1:48:43.52,Default,,0,0,0,,Katie!
+Dialogue: 0,1:49:11.41,1:49:12.91,Default,,0,0,0,,Hey, Charlie.
+Dialogue: 0,1:49:13.78,1:49:15.72,Default,,0,0,0,,Apa kau ingin menikmatiku?
+Dialogue: 0,1:49:17.29,1:49:18.79,Default,,0,0,0,,Ayo.
+Dialogue: 0,1:49:19.65,1:49:21.66,Default,,0,0,0,,Cicipilah.
+Dialogue: 0,1:49:28.70,1:49:29.76,Default,,0,0,0,,Katie!
+Dialogue: 0,1:49:30.97,1:49:32.43,Default,,0,0,0,,Charlie!
+Dialogue: 0,1:49:34.10,1:49:35.14,Default,,0,0,0,,Katie!
+Dialogue: 0,1:51:45.27,1:51:47.84,Default,,0,0,0,,Aku merasa tidak nyaman\Nberada di dalam putrimu.
+Dialogue: 0,1:52:06.05,1:52:08.82,Default,,0,0,0,,Dulu kau sering bermain\Nkejar-kejaran denganku.
+Dialogue: 0,1:52:09.26,1:52:10.49,Default,,0,0,0,,Sekarang kau menggeliat menjauh
+Dialogue: 0,1:52:10.63,1:52:11.93,Default,,0,0,0,,dariku seperti cacing.
+Dialogue: 0,1:52:23.97,1:52:26.21,Default,,0,0,0,,Kau tak akan bisa\Nmendapatkannya kembali!
+Dialogue: 0,1:52:26.64,1:52:28.94,Default,,0,0,0,,Sekarang aku ayahnya.
+Dialogue: 0,1:54:12.85,1:54:15.92,Default,,0,0,0,,Zaki! Mantranya!\NIngat mantranya!
+Dialogue: 0,1:56:10.77,1:56:12.03,Default,,0,0,0,,Maafkan aku.
+Dialogue: 0,1:57:15.96,1:57:17.40,Default,,0,0,0,,Ibu?
+Dialogue: 0,1:57:22.60,1:57:23.61,Default,,0,0,0,,Katie?
+Dialogue: 0,1:57:26.14,1:57:27.41,Default,,0,0,0,,Ayah?
+Dialogue: 0,1:58:06.28,1:58:08.65,Default,,0,0,0,,Ayo, sayang.\NKita kembali ke atas.
+Dialogue: 0,1:58:20.26,1:58:21.76,Default,,0,0,0,,Apa yang dia katakan?
+Dialogue: 0,1:58:24.43,1:58:26.20,Default,,0,0,0,,Dia bilang dia mencintai kita.
+Dialogue: 0,1:58:31.84,1:58:33.27,Default,,0,0,0,,Kami mencintaimu, Ayah.
+Dialogue: 0,1:58:49.32,1:58:51.29,Default,,0,0,0,,Tidak, biarkan dia jalan.\NSekarang giliran dia.
+Dialogue: 0,1:59:18.15,1:59:19.19,Default,,0,0,0,,Halo?
+Dialogue: 0,1:59:20.15,1:59:21.32,Default,,0,0,0,,{\i1}Ini aku.{\i0}
+Dialogue: 0,1:59:22.79,1:59:24.39,Default,,0,0,0,,Ini sudah larut malam.
+Dialogue: 0,1:59:24.53,1:59:26.46,Default,,0,0,0,,{\i1}Aku tidak bisa tidur.{\i0}
+Dialogue: 0,1:59:29.70,1:59:30.77,Default,,0,0,0,,Aku juga tidak.
+Dialogue: 0,1:59:32.97,1:59:35.50,Default,,0,0,0,,{\i1}Aku perlu bicara denganmu\Ntentang Charlie.{\i0}
+Dialogue: 0,1:59:38.97,1:59:40.44,Default,,0,0,0,,Aku mendengarkan.
+Dialogue: 0,2:00:53.47,2:00:55.47,Default,,0,0,0,,Kau hari ini telat.
+Dialogue: 0,2:01:06.49,2:01:09.49,Default,,0,0,0,,Darah kau kau sedot dariku\Ncukup untuk mengisi kolam.
+Dialogue: 0,2:01:12.41,2:01:17.41,Default,,0,0,0,,Suruh mereka mematikan musik ini,\Nmembuat kepalaku sakit.
+Dialogue: 0,2:01:35.59,2:01:37.49,Default,,0,0,0,,Kau mengenali wajahku.
+Dialogue: 0,2:01:43.40,2:01:45.60,Default,,0,0,0,,Kau masih ingat Katie-ku 'kan?
+Dialogue: 0,2:01:51.01,2:01:53.88,Default,,0,0,0,,Dia ingin tahu apakah\Nkau ingin melihat sebuah trik sulap.
+Dialogue: 0,2:02:24.40,2:02:27.40,Default,,0,0,0,,Tentu kau ingat yang terjadi selanjutnya.
+Dialogue: 0,2:03:03.96,2:03:18.96,Default,,0,0,0,,{\c&H00ff80&}broth3r{\i1}max{\i0}, 30 April 2026
+Dialogue: 0,2:03:18.96,2:03:33.96,Default,,0,0,0,,NO RESYNC/EDIT/RE-UPLOAD\N{\c&H00ff80&}broth3r{\i1}max{\i0}, 30 April 2026
+Dialogue: 0,2:03:33.98,2:03:53.98,Default,,0,0,0,,{\c&H00ffff&}INSTAGRAM @broth3rmax{\c}\N{\c&Hffff00&}TELEGRAM: t.me/broth3rmax_chat{\c}\N{\c&H00ff00&}FOR ADVERTISING ONLY, WA 088905942930 (NEW)
+Dialogue: 0,2:03:54.00,2:04:14.00,Default,,0,0,0,,MARI SUPPORT TERUS DI\N{\c&H8080ff&}trakteer.id/broth3rmaxSUB
+Dialogue: 0,2:04:14.04,2:04:29.04,Default,,0,0,0,,REBATE SLOT 1,3% {\c&H8080ff&}TERTINGGI DI INDONESIA{\c}\N& SEMINGGU FULL HADIR AKAN DIBERIKAN\N{\c&H00ff80&}RP 75K SECARA CUMA-CUMA
+Dialogue: 0,2:04:29.06,2:04:44.06,Default,,0,0,0,,Hanya di {\c&H8080ff&}AYUKBET{\c}! Menang dapat {\c&H00ff80&}REBATE SLOT 1,3%{\c},\NKalah juga dapat {\c&H00ff80&}CASHBACK 5%{\c}\NKetik di Google: {\c&H8080ff&}AYUKBET
+Dialogue: 0,2:04:44.08,2:04:59.08,Default,,0,0,0,,Ada juga {\c&Hffff80&}Bonus MALMING 50k!{\c}\Nketik di GOOGLE: {\c&H8080ff&}AYUKBET
+Dialogue: 0,2:04:59.11,2:05:19.71,Default,,0,0,0,,{\c&H00ff00&}DAFTAR BARU LANGSUNG DAPAT BONUS 50%.{\c}\NDengan DP 25k sampai 100k, {\c&H4080ff&}BISA KLAIM BONUS HARIAN 40k!{\c}\NKetik di Google: {\c&H8080ff&}AYUKBET
+Dialogue: 0,2:15:00.00,2:15:17.00,Default,,0,0,0,,TAMAT

@@ -1,0 +1,1708 @@
+html {
+    background-color: #c5c9cf;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    width: 985px;
+    height: auto;
+    background-color: #ffffff;
+    margin-top: 0px;
+    margin: auto;
+    box-shadow: -7px 16px 21px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: -7px 16px 21px 1px rgba(0,0,0,0.75);
+box-shadow: -7px 16px 21px 1px rgba(0,0,0,0.75);
+}
+
+.bodypromo {
+        width: 985px;
+    height: 2100px;
+    background-color: #ffffff;
+    margin-top: 0px;
+    margin: auto;
+    box-shadow: -7px 16px 21px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: -7px 16px 21px 1px rgba(0,0,0,0.75);
+    box-shadow: -7px 16px 21px 1px rgba(0,0,0,0.75);
+}
+
+.header {
+    width: 985px;
+    height: 74px;
+    position: relative;
+}
+
+#list-people {
+    width: 940px;
+    height: 14px;
+    background-color: #ffffff;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11.5px;
+    line-height: 14px;
+}
+
+#list-right {
+    width: 200px;
+    height: 14px;
+    font-size: 11.5px;
+    float: right;
+    line-height: 14px;
+}
+
+.ki {
+    width: 100px;
+    height: 100px;
+    background: blue;
+}
+
+#login {
+    width: 135px;
+    height: 23px;
+    border-radius: 5px;
+    background-color: #3d9fd7;
+    float: right;
+    margin-top: 0px;
+    line-height: 23px;
+    font-size: 11.5px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+#login a {
+     text-decoration-line: none;
+     color: white;
+}
+
+#logo-text {
+    width: 940px;
+    height: 60px;
+    margin-left:20px;
+}
+
+.logo {
+    width: 210px;
+    height: 60px;
+    background-image: url(img/logo.png);
+    float: left;
+}
+
+#flights {
+    width: 100px;
+    height: 20px;
+    float: left;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    line-height: 20px;
+    margin-right: 20px;
+}
+
+.icon-flights {
+    float: left;
+    width: 26px;
+    height: 20px;
+}
+
+#text-flights {
+    position: relative;
+    float: left;
+    color: #f28d00;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+#hotels {
+    width: 95px;
+    height: 20px;
+    float: left;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    line-height: 20px;
+    margin-right: 20px;
+}
+
+.icon-hotels {
+    float: left;
+    width: 30px;
+    height: 20px;
+}
+
+#text-hotels {
+    position: relative;
+    float: left;
+    color: #4f9eae;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+#bookings {
+    width: 115px;
+    height: 20px;
+    float: left;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    line-height: 20px;
+    margin-right: 20px;
+}
+
+.icon-bookings {
+    float: left;
+    width: 26px;
+    height: 20px;
+}
+
+#text-bookings {
+    position: relative;
+    float: left;
+    color: #929389;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+#support {
+    width: 202px;
+    height: 20px;
+    float: right;
+    left: 135px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    line-height: 20px;
+}
+
+.icon-support {
+    float: left;
+    width: 23px;
+    height: 20px;
+}
+
+.bannersatu {
+    width: 932px;
+    height: 258px;
+    background-color: grey;
+    position: relative;
+    border-radius: 10px;
+    margin:auto;
+}
+
+
+#text-support {
+    position: relative;
+    float: left;
+    color: #929389;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+main {
+    width: 940px;
+    height: 1900px;
+    border: #b4b4b4 1px solid ;
+    margin:auto;
+    border-radius: 10px;
+    margin-top: 5px;
+    position: relative;
+}
+
+.mainpromo {
+    width: 940px;
+    height: 1220px;
+    border: #b4b4b4 1px solid ;
+    margin:auto;
+    border-radius: 10px;
+    margin-top: 5px;
+    position: relative;
+}
+
+
+
+#banner {
+    width: 930px;
+    height: 260px;
+    margin:auto;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    position: relative;
+    background-image: url(img/banner.png)
+}
+
+#banner2 {
+    width: 930px;
+    height: 260px;
+    margin:auto;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    position: relative;
+    background-image: url(img/banner.png)
+}
+
+#banner-canada {
+    width: 930px;
+    height: 260px;
+    margin:auto;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    position: relative;
+    background-image: url(img/ban-canada.png)
+}
+
+.teksnyaya {
+    width: 930px;
+    height: 100px;
+    margin:auto;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    background: rgba(255,255,255,1);
+    text-align: center;
+    font-size: 13px;
+    padding: 15px 10px 0 10px;
+    overflow: auto;
+    box-sizing: border-box;
+    color: rgb(97, 97, 97);
+    box-shadow: -8px 12px 13px -8px rgba(0,0,0,0.78);
+-moz-box-shadow: -8px 12px 13px -8px rgba(0,0,0,0.78);
+box-shadow: -8px 12px 13px -8px rgba(0,0,0,0.78);
+}
+
+#ayo {
+    color: red;
+}
+
+
+
+.nota {
+    width: 930px;
+    height: 40px;
+    margin:auto;
+    margin-bottom: 20px;
+    position: relative;
+    background-color: #d1d3d4;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    text-align: right;
+    font-size: 11px;
+    box-sizing: border-box;
+    padding: 5px 10px 0 5px;
+    font-weight: bold;
+}
+
+.table1 {
+        width: 930px;
+    height: 120px;
+    margin:auto;
+    position: relative;
+}
+
+.tab1 {
+    width: 309px;
+    height: 120px;
+    margin-right: 1.5px;
+    float: left;
+    border-top-left-radius: 10px;
+}
+
+.teks1 {
+    width: 154.5px;
+    height: 24px;
+    background-color: #292819;
+     float: left;
+     color: white;
+     font-size: 13px;
+     line-height: 24px;
+     padding-left: 10px;
+     box-sizing: border-box;
+
+}
+
+.jud1 {
+    width: 154.5px;
+    height: 24px;
+    background-color: #292819;
+    float: left;
+    line-height: 24px;
+    color: white;
+    font-size: 14px; 
+    font-weight: bold;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+.jud12 {
+    width: 154.5px;
+    height: 24px;
+    background-color: #292819;
+    float: left;
+    line-height: 24px;
+    color: white;
+    font-size: 14px; 
+    font-weight: bold;
+    padding-left: 10px;
+    box-sizing: border-box;
+    border-top-left-radius: 10px;
+    
+}
+
+.pswt {
+    width: 23px;
+    height: 24px; 
+    background-color: #6bf51b;
+    float: right;
+    margin-right: 40px;
+}
+
+
+.jud22{
+    width: 154.5px;
+    height: 24px;
+    background-color: #292819;
+    float: left;
+    line-height: 24px;
+    color: white;
+    font-size: 14px; 
+    padding-left: 10px;
+    box-sizing: border-box;
+    font-weight: bold;
+    border-top-right-radius: 10px;
+}
+
+.jud2 {
+    width: 154.5px;
+    height: 24px;
+    background-color: #292819;
+    float: left;
+    line-height: 24px;
+    color: white;
+    font-size: 14px; 
+    padding-left: 10px;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+
+.saratketentuan {
+    width: 930px;
+    height: 90px;
+    margin: auto;
+}
+
+.sarat1 {
+    width: 462px;
+    height: 90px;
+    background-color: #d1d3d4;
+    float: left;
+    font-size: 10.5px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px 0 0 0;
+    line-height: 1.7;
+    border-radius: 10px;
+    color: rgb(83, 83, 83);
+}
+
+#listabu {
+    font-size: 13px;
+    color: rgb(143, 143, 143);
+}
+
+.sarat2 {
+     width: 462px;
+    height: 90px;
+    float: right;
+}
+
+.teks2 {
+    width: 154.5px;
+    height: 24px;
+    background-color: #4d4d55;
+     float: left;
+     color: white;
+     font-size: 13px;
+     line-height: 24px;
+     padding-left: 10px;
+     box-sizing: border-box;
+}
+
+.from {
+    width: 25px;
+    height: 24px;
+    background-color: #4d4d55;
+    color: white;
+    float: right;
+    font-size: 13px;
+}
+
+.box122 , .box233 , .box123 , .box234 {
+    line-height: 24px;
+    font-size: 12px;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+
+.box122 .box123 {
+    font-weight: bold;
+}
+
+.from2 {
+    width: 25px;
+    height: 24px;
+    background-color: #292819;
+    color: white;
+    float: right;
+    font-size: 13px;
+}
+
+.tsnya1 {
+    width: 462px;
+    height: 30px;
+    background-color: #00529e;
+    float: left;
+    line-height: 30px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    padding-left:10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-sizing: border-box;
+    color:white;
+}
+
+.tsnya2 {
+    width: 462px;
+    height: 50px;
+     float: left;
+     margin-top: 10px;
+}
+
+.box122 {
+        width: 180px;
+    height: 24px;
+    background-color: #bfe0ff;
+     float: left;
+     font-weight: bold;
+     border-top-left-radius: 10px;
+}
+
+.box123 {
+        width: 180px;
+    height: 24px;
+    background-color: #bfe0ff;
+     float: left;
+     margin-top: 2px;
+     font-weight: bold;
+     border-bottom-left-radius: 10px;
+}
+
+.box233 {
+        width: 280px;
+    height: 24px;
+    background-color: #e0ccff;
+     float: left;
+     margin-left: 2px;
+}
+
+.box234 {
+     width: 280px;
+    height: 24px;
+    background-color: #e0ccff;
+     float: left;
+     margin-top: 2px;
+      margin-left: 2px;
+}
+
+.tab2 {
+    width: 309px;
+    height: 120px;
+    float: left;
+}
+
+.tuliss {
+    width: 170px;
+    height: 30px;
+    background-color: #0c79b2;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 30px;
+    color: white;
+}
+
+.tuliss2 {
+    width: 170px;
+    height: 30px;
+    background-color: #0c79b2;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 30px;
+    color: white;
+}
+
+#tuliss {
+    font-size: 18px ;
+}
+
+.ekonomi {
+    width: 930px;
+    height: 30px;
+    margin:auto;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+    position: relative;
+    background-color: rgb(243, 203, 22);
+}
+
+.ekonomi2 {
+    width: 130px;
+    height: 30px;
+    margin:auto;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    float: left;
+    margin-bottom: 20px;
+    position: relative;
+    background-color: rgb(85, 241, 13);
+}
+
+.lengkapi {
+    width: 700px;
+    height: 30px;
+    margin:auto;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    float: left;
+    margin-bottom: 20px;
+    position: relative;
+    background-color: #f18429;
+    line-height: 30px;
+    color: white;
+    font-size: 15px;
+    box-sizing: border-box;
+    padding-left: 13px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+}
+
+.leng2 {
+    width: 930px;
+    height: 30px;
+    margin:auto;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 5px;
+    margin-top: 20px;
+    position: relative;
+}
+
+#pesanskrg {
+    width:200px;
+    height: 32px;
+    border-radius: 5px;
+    position: relative;
+    float : right;
+    right: 70px;
+    top : 185px;
+    background-image: url(img/pesanskrg.png)
+}
+
+#booknow {
+    width:200px;
+    height: 32px;
+    border-radius: 5px;
+    position: relative;
+    float : right;
+    right: 70px;
+    top : 185px;
+    background-image: url(img/booknow.png)
+}
+
+.end {
+        width: 170px;
+    height: 30px;
+    float: right;
+    margin-left: 5px;
+    position: relative;
+    margin-top: 15px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 70px;
+    background: rgb(155, 155, 155);
+    line-height: 30px;
+    font-size: 12px;
+    text-align: center;
+    color: white;
+}
+
+#how-to {
+    width: 930px;
+    height: 222px;
+    border: solid 1px #0099ff;
+    border-radius: 10px;
+    margin:auto;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.pilh-4{
+    width: 930px;
+    height: 180px;
+    margin-top: 70px;
+    border: solid 1px #b8bcbe;
+    border-radius: 10px;
+    position: relative;
+    background: #ffffff;
+    box-shadow: 16px 13px 12px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: 16px 13px 12px -8px rgba(0,0,0,0.75);
+box-shadow: 16px 13px 12px -8px rgba(0,0,0,0.75);
+}
+
+.pilh-89{
+    width: 930px;
+    height: 180px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: solid 1px #b8bcbe;
+    border-radius: 10px;
+    position: relative;
+    background: #ffffff;
+    box-shadow: 16px 13px 12px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: 16px 13px 12px -8px rgba(0,0,0,0.75);
+box-shadow: 16px 13px 12px -8px rgba(0,0,0,0.75);
+}
+
+.gt5 {
+    width: 930px;
+    height: 360px;
+    margin:auto;
+    margin-top: 20px;
+}
+
+.tiket-dll{
+    width: 930px;
+    height: 180px;
+    margin-top: 20px;
+    border-radius: 10px;
+    position: relative;
+}
+
+#text-how-to {
+    height: 29px;
+    width: 930px;
+    margin: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #0c79b2; 
+    position: relative;
+    line-height: 29px;
+    color: white;
+}
+
+#text-how-to a {
+    text-decoration-line: none;
+    margin-left:5px;
+}
+
+/* booking */
+.booking {
+    float: left;
+    position: relative;
+    margin-top: 4px;
+}
+
+#img-size1 {
+    width: 172.5px;
+    height: 110px;
+    
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+#img1 {
+    width: 170px;
+    height: 110px;
+    
+    margin: auto;
+}
+
+#text1-booking1 {
+    font-size: 12px;
+    font-weight: bold;
+    width: 172.5px;
+    height: 12px;
+    text-align: center;
+    margin-left: 30px;
+    margin-bottom: 5px;
+    
+}
+
+#text2-booking {
+    font-size: 5px;
+    width: 215px;
+    height: 10.5px;
+    text-align: center;
+    
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+#text3-booking {
+    font-size: 10.5px;
+    width: 215px;
+    height: 10.5px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#text3-booking a {
+ text-decoration: none;
+ color: #0c79b2;
+}
+/* end booking */
+
+
+/* payment */
+.payment {
+    float: left;
+    position: relative;
+    margin-top: 4px;
+    margin-left: 0px;
+}
+
+#img-size1 {
+    width: 172.5px;
+    height: 110px;
+    
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+#img1 {
+    width: 170px;
+    height: 110px;
+    
+    margin: auto;
+}
+
+#text1-booking1 {
+    font-size: 12px;
+    font-weight: bold;
+    width: 172.5px;
+    height: 12px;
+    text-align: center;
+    margin-left: 30px;
+    margin-bottom: 5px;
+    
+}
+
+#text2-booking {
+    font-size: 9px;
+    width: 215px;
+    height: 10.5px;
+    text-align: center;
+    
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+#text3-booking {
+    font-size: 10.5px;
+    width: 215px;
+    height: 10.5px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#text3-booking a {
+ text-decoration: none;
+ color: #0c79b2;
+}
+/* end payment */
+
+/* forward-booking */
+.forward-booking {
+    float: left;
+    position: relative;
+    margin-top: 4px;
+    margin-left: 0px;
+}
+
+#img-size1 {
+    width: 172.5px;
+    height: 110px;
+    
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+#img1 {
+    width: 170px;
+    height: 110px;
+    
+    margin: auto;
+}
+
+#text1-forward {
+    font-size: 12px;
+    font-weight: bold;
+    width: 200px;
+    height: 12px;
+    text-align: left;
+    margin-left: 19px;
+    margin-bottom: 5px;
+    text-align: center;
+    
+}
+
+#text2-forward {
+    font-size: 9px;
+    width: 221px;
+    height: 10.5px;
+    text-align: center;
+    margin: auto;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#text3-forward {
+    font-size: 9px;
+    width: 215px;
+    height: 10.5px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#text3-booking a {
+ text-decoration: none;
+ color: #0c79b2;
+}
+/* end forward-booking */
+
+/* box popular destination */
+.popular-destination {
+    width: 930px;
+    height: 1250px;
+    margin:auto;
+    border-radius: 10px;
+    border : 1px solid #0099ff;
+    /* background-color: greenyellow; */
+    /* position: relative; */
+}
+
+.box3 {
+    width: 930px;
+    height: 500px;
+    margin:auto;
+    border-radius: 10px;
+    border : 1px solid #0099ff;
+}
+
+.sy {
+    width: 930px;
+    height: 180px;
+    margin: auto;
+}
+
+.kopp {
+    width: 190px;
+    height: 20px;
+    line-height: 20px;
+    margin-top: 20px;
+    float: right;
+    font-size: 12px;
+    color: rgb(0, 173, 216);
+}
+
+.koppi  {
+    width: 190px;
+    height: 20px;
+    line-height: 20px;
+    float: right;
+    font-size: 12px;
+    color: rgb(0, 173, 216);
+}
+
+.kopp a {
+    color: rgb(61, 47, 255);
+}
+
+
+
+.blok1 {
+    width: 700px;
+    height: 200px;
+    background-color: gray;
+    margin: auto;
+    position: relative;
+}
+
+.text-pop-dest {
+    height: 35px;
+    width: 930px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    background-color: #0c79b2;
+    color: white;
+    line-height: 35px;
+}
+
+.text-pop-dest a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.boxnya {
+    width: 900px;
+    height: 35px;
+    margin: auto;
+}
+
+.cwiuk {
+    width: 250px;
+    height: 100px;
+}
+
+
+
+.qse {
+    width: 900px;
+    height: 35px;
+    margin: auto;
+}
+
+.boxnya2 {
+    width: 900px;
+    height: 35px; 
+    margin: auto;
+}
+
+
+.lisnya {
+    width: 70px;
+    height: 20px;
+    /* background-color: green; */
+    float: left;
+    line-height: 20px;
+    margin-top: 5px;
+    font-weight: bold;
+    color: #0c79b2;
+    font-size: 14px;
+}
+
+.lisnya2 {
+    width: 70px;
+    height: 20px;
+    float: left;
+    line-height: 20px;
+    margin-top: 43px;
+    font-weight: bold;
+    color: #0c79b2;
+    font-size: 14px;
+}
+
+.w {
+    width: 810px;
+    height: 1px;
+    float: left;
+    margin-top: 16px;
+    border-radius: 10px;
+    margin-left: 10px;
+    background-color: #0c79b2;
+}
+
+.boxnya233 {
+    width: 900px;
+    height: 35px;
+    margin: auto;
+}
+
+.lisnya233 {
+    width: 70px;
+    height: 20px;
+    float: right;
+    margin-top: 0px;
+    line-height: 20px;
+    font-weight: bold;
+    color: blue;
+    font-size: 14px;
+}
+
+.lisnya234 {
+    width: 70px;
+    height: 20px;
+    float: right;
+    margin-top: 0px;
+    line-height: 20px;
+    font-weight: bold;
+    color: blue;
+    font-size: 14px;
+}
+
+.w233 {
+        width: 810px;
+    height: 50px;
+    float: left;
+    margin-top: 800px;
+    border-radius: 10px;
+    margin-left: 10px;
+    background-color: yellow;
+}
+
+
+
+.w2 {
+    width: 780px;
+    height: 1px;
+    float: left;
+    margin-top: 55px;
+    border-radius: 10px;
+    margin-left: 40px;
+    background-color: rgb(11, 48, 83);
+}
+
+.w3 {
+    width: 450px;
+    height: 40px;
+    float: right;
+    margin-top: 16px;
+    border-radius: 10px;
+    background-color: yellow;
+}
+
+.box1 {
+    width: 900px;
+    height: 240px;
+    margin: auto; 
+}
+
+.box2{
+    width: 900px;
+    height: 240px;
+    margin: auto;
+    background-color: green;
+    margin-top: 50px;
+}
+
+.cwiuk {
+    height: 20px;
+    widows: 240px;
+    background-color: blue;
+}
+
+.t1 {
+    width: 213.75px;
+    height: 240px;
+    float : left;
+    margin-right: 15px; 
+}
+
+.t2 {
+    width: 213.75px;
+    height: 240px;
+    float : left;
+}
+
+.t2-kanan {
+       width: 213.75px;
+    height: 240px;
+    float : left;
+    margin-top: 15px;
+
+}
+
+.t3-bawah {
+    width: 213.75px;
+    height: 240px;
+    float : left;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
+
+.nama {
+    width: 213px;
+    height: 26px;
+    background-color:black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.location {
+    width: 140px;
+    height: 26px;
+    line-height: 26px;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.gmbar {
+    width: 213.75px;
+    height: 145px;
+    /* background-color: rgb(44, 250, 17); */
+    margin-bottom: 7.5px;
+    border-radius: 10px;
+}
+
+.gmbar img {
+    margin: auto;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.hotel {
+    width: 213.75px;
+    height: 40px;
+    background: rgba(226,226,226,1);;
+    margin-bottom: 7.5px;
+    border-radius: 10px;
+    border: 0.5px solid rgb(139, 139, 139);
+}
+
+.box-list a {
+    font-size: 10px;
+}
+
+.tdr {
+    width: 213.75px;
+    height: 40px;
+    background: rgba(226,226,226,1);;
+    margin-bottom: 7.5px;
+    border-radius: 10px;
+    border: 0.5px solid rgb(139, 139, 139);
+}
+
+.atas {
+    height: 10px;
+    width: 150px;
+    margin-left: 50px;
+    font-size: 12px;
+    line-height: 15px;
+    margin-top: 3px;
+    color: black;
+}
+
+
+.bawah {
+    height: 20px;
+    width: 150px;
+    margin-left: 50px;
+    font-size: 12px;
+    line-height: 30px;
+    margin-bottom: 5px;
+    color: black;
+}
+
+.ico {
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-top: 4px;
+    margin-left: 4px;
+}
+
+.twer  {
+    width: 800px;
+    height: 300px;
+    background-color: aquamarine;
+}
+
+
+
+
+.htelvan {
+     width: 930px;
+    height: 180px;
+    margin:auto;
+    border-radius: 10px;
+    margin-top: 20px;
+    position: relative;
+}
+
+.gmbarnyaya {
+    width: 464px;
+    height: 180px;
+    background-color: rgb(119, 78, 3);
+    float: left;
+}
+
+.hrganyaya {
+    width: 464px;
+    height: 180px;
+    float: left;
+    border-radius: 10px;
+}
+
+
+
+.hrgahgen {
+    width: 208px;
+    height: 44.25px;
+    background-color: #bfe0ff;
+    float: left;
+    margin-bottom: 1px;
+    margin-right: 1px;
+    line-height: 44.25px;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+
+.hrgah {
+    width: 208px;
+    height: 44.25px;
+    background-color: #dff1ff;
+    float: left;
+    margin-bottom: 1px;
+    margin-right: 1px;
+    line-height: 44.25px;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+
+.hrgah2 , .hrgahdua i  {
+    font-size: 12px;
+    box-sizing: border-box;
+    padding-left: 5px;
+    padding-right: 45px;
+}
+
+.hrgahdua  i  {
+    font-size: 12px;
+    box-sizing: border-box;
+    padding-left: 5px;
+    padding-right: 45px;
+}
+
+.hrgah2  i  {
+    font-size: 12px;
+    box-sizing: border-box;
+    padding-left: 5px;
+    padding-right: 45px;
+}
+
+.hrgah2 , .hrgahdua b {
+    font-size: 13px;
+}
+
+.hrgah2 {
+    width: 208px;
+    height: 44.25px;
+    background-color: #bfe0ff;
+    float: left;
+    margin-bottom: 1px;
+    margin-right: 1px;
+    line-height: 44.25px;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+
+.hrgahdua {
+    width: 208px;
+    height: 44.25px;
+    background-color: #dff1ff;
+    float: left;
+    margin-bottom: 1px;
+    margin-right: 1px;
+    line-height: 44.25px;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+
+
+.arrow {
+    width: 46px;
+    height: 44.25px;
+    background-color: #bfe0ff;
+    float: right;
+    margin-bottom: 1px;
+    border-top-right-radius: 10px;
+    font-weight: bolder;
+    line-height: 44.25px;
+    text-align: center;
+    font-size: 11px;
+}
+
+.arrowp {
+    width: 46px;
+    height: 44.25px;
+    background-color: #bfe0ff;
+    float: right;
+    margin-bottom: 1px;
+    border-top-right-radius: 10px;
+    font-weight: bolder;
+    line-height: 44.25px;
+    text-align: center;
+    font-size: 11px;
+}
+
+.arrow1 {
+    width: 46px;
+    height: 44.25px;
+    background-color: #bfe0ff;
+    float: right;
+    margin-bottom: 1px;
+    border-top-right-radius: 10px;
+    font-weight: bolder;
+    line-height: 44.25px;
+    text-align: center;
+    font-size: 11px;
+}
+
+.arrow2 {
+    width: 46px;
+    height: 44.25px;
+    background-color: #dff1ff;
+    float: right;
+    margin-bottom: 1px;
+    border-bottom-right-radius: 10px;
+        width: 46px;
+    height: 44.25px;
+    background-color: #bfe0ff;
+    float: right;
+    margin-bottom: 1px;
+    border-top-right-radius: 10px;
+    font-weight: bolder;
+    line-height: 44.25px;
+    text-align: center;
+    font-size: 11px;
+}
+
+/* end pop.destination  */
+
+
+.tik1 {
+    width: 300px;
+    height: 180px;
+    float: left;
+    margin-left: 5px;
+    margin-right: 10px;
+    position: relative;
+}
+
+.tik1 a{
+    font-size: 11px;
+    text-decoration: none;
+    color: #0088cc;
+}
+
+.tik a{
+    font-size: 11px;
+    text-decoration: none;
+    color: #0088cc;
+}
+
+.tik3 a{
+    font-size: 11px;
+    text-decoration: none;
+    color: #0088cc;
+}
+
+
+.tik {
+    width: 300px;
+    height: 180px;
+    float: left;
+    margin-right: 10px;
+}
+
+.tik3 {
+    width: 300px;
+    height: 180px;
+    float: left;
+    margin-right: 10px;
+    margin-right: 5px;
+}
+
+.paytomem {
+    width: 930px;
+    height: 20px;
+    margin-top: 5px;
+    position: relative; 
+}
+
+.kananlink {
+    width: 450px;
+    height: 20px;
+    float: left;
+}
+
+.kananlink a {
+    margin-left: 7px;
+    font-size: 12px;
+    text-decoration: none;
+    color: #0088cc;
+}
+
+.kirilink {
+        width: 100px;
+    height: 20px;
+    float: right;
+     position: relative;
+}
+
+.kirilink a {
+    font-size: 11px;
+    text-decoration: none;
+}
+
+#pay {
+    color: black;
+}
+
+.logonyab {
+    width: 930px;
+    height: 44px;
+    margin-top: 0px;
+}
+
+.knnlogo {
+        width: 655px;
+    height: 44px; 
+    float: left;
+}
+
+.krilogo {
+        width: 120px;
+    height: 44px;
+    background: rgb(0, 255, 13);
+    float: right;
+}
+
+.visa {
+            width: 930px;
+    height: 44px; 
+}
+
+.andr {
+                width: 930px;
+    height: 44px; 
+}
+
+.popairlines {
+    width: 930px;
+    height: 60px;
+    margin-top: 10px;
+    
+}
+
+.Popularair a {
+    font-size: 11px;
+    text-decoration: none;
+    margin-bottom: 5px;
+    line-height: 1.4;
+    margin-left: 5px;
+    color: #0088cc;
+}
+
+.Popularair {
+    font-size: 11px;
+    
+}
+
+.poptetks {
+    font-size: 11px;
+    margin-left: 5px;
+}
+
+.followdll {
+    width: 930px;
+    height: 150px;
+    position: relative;
+    background: yellow;
+}
+
+.bwhy {
+    width: 300px ;
+    height: 112.5px;
+    font-size: 13px;
+    color: rgb(156, 156, 156);
+}
+
+.fol {
+    width: 200px;
+    height: 150px;
+    background: yellowgreen;
+    float: left;
+    
+}
+
+.tksf {
+        width: 430px;
+    height: 37.5px;
+    margin: auto;
+    text-align: left;
+    line-height: 37.5px;
+    color:#0088cc;
+    background: #ebebeb;
+}
+
+
+.tksfq {
+    width: 430px;
+    height: 37.5px;
+    margin: auto;
+    text-align: right;
+    line-height: 37.5px;
+    color:#0088cc;
+    background: #ebebeb;
+    box-sizing: border-box;
+    padding-right: 100px;
+}
+
+.tksf2 {
+        width: 200px;
+    height: 37.5px;
+    background: #f9f9f9;
+}
+
+.tksf2 img {
+    float: left;
+}
+ 
+.blg {
+    float: left;
+    margin-top: 0px;
+    
+    color: rgb(156, 156, 156);
+    background: #ebebeb;
+}
+
+.tksf3 {
+        width: 200px;
+    height: 37.5px;
+    background: rgb(219, 177, 253);
+}
+
+.tksf4 {
+        width: 430px;
+    height: 37.5px;
+}
+
+.sup {
+    width: 300px;
+    height: 150px;
+    float: left;
+    box-sizing: border-box;
+    padding-left: 45px;
+    background: #ebebeb;
+}
+
+.down {
+    width: 430px;
+    height: 150px;
+    float: left;
+    background: #ebebeb;
+}
+
+.formit {
+    width: 430px;
+    height: 112.5px;
+    float: left;
+    box-sizing: border-box;
+    padding-right: 100px;
+}
+
+.cpd {
+    width: 930px;
+    height: 30px;
+    background: #d4d4d4;
+    line-height: 30px;
+    font-size: 12px;
+}
+
+.cpd a {
+    color:#1a82c3;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#ip {
+    width: 500px;
+    height: 30px;
+    float: left;
+    margin-left: 6px;
+    font-size: 11px
+}
+
+.pil1 {
+    width: 232.5px;
+    height: 180px;
+    float: left;
+}
+
+input {
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    float: right;
+    height: 20px;
+}
+
+.subm {
+    height: 26px;
+    background: #1a76ad;
+    width: 90px;
+    float: right;
+    text-align: center;
+    line-height: 26px;
+    font-weight: bold;
+    color: white;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.listu {
+    height: 110px;
+    width: 232.5px;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15px;
+    padding-top: 35px;
+    line-height: 1.2;
+}
+
+.listu2 {
+    height: 70px;
+    width: 310px;
+    font-size: 20px;
+}
+
+.listu2 img {
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.listu2 b {
+    text-align: center;
+    box-sizing: border-box;
+    margin-left: 40px;
+}
+
+.t1n , .t2n {
+    font-weight: bold;
+    margin-left: 45px;
+    height: 20px;
+    widows: 60px;
+    padding-top: 10px; 
+    box-sizing: border-box;
+}
